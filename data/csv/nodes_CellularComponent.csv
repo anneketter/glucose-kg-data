@@ -1,0 +1,1404 @@
+id:ID(KG),:LABEL,name,provided_by,source
+GO:0005634,CellularComponent,nucleus,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005739,CellularComponent,mitochondrion,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005741,CellularComponent,mitochondrial outer membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005829,CellularComponent,cytosol,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005737,CellularComponent,cytoplasm,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005759,CellularComponent,mitochondrial matrix,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030424,CellularComponent,axon,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031966,CellularComponent,mitochondrial membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005884,CellularComponent,actin filament,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005886,CellularComponent,plasma membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005903,CellularComponent,brush border,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005925,CellularComponent,focal adhesion,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0015629,CellularComponent,actin cytoskeleton,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030017,CellularComponent,sarcomere,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030018,CellularComponent,Z disc,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030054,CellularComponent,cell junction,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030864,CellularComponent,cortical actin cytoskeleton,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031143,CellularComponent,pseudopodium,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0042995,CellularComponent,cell projection,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0070062,CellularComponent,extracellular exosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005901,CellularComponent,caveola,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005905,CellularComponent,clathrin-coated pit,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0014069,CellularComponent,postsynaptic density,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016020,CellularComponent,membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016323,CellularComponent,basolateral plasma membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016324,CellularComponent,apical plasma membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030425,CellularComponent,dendrite,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030665,CellularComponent,clathrin-coated vesicle membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031410,CellularComponent,cytoplasmic vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032809,CellularComponent,neuronal cell body membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0042734,CellularComponent,presynaptic membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0044853,CellularComponent,plasma membrane raft,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0045121,CellularComponent,membrane raft,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0045202,CellularComponent,synapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0048786,CellularComponent,presynaptic active zone,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0060076,CellularComponent,excitatory synapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098685,CellularComponent,Schaffer collateral - CA1 synapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098686,CellularComponent,hippocampal mossy fiber to CA3 synapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098978,CellularComponent,glutamatergic synapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043025,CellularComponent,neuronal cell body,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043235,CellularComponent,receptor complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043679,CellularComponent,axon terminus,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0045211,CellularComponent,postsynaptic membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0048787,CellularComponent,presynaptic active zone membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098691,CellularComponent,dopaminergic synapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098839,CellularComponent,postsynaptic density membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098982,CellularComponent,GABA-ergic synapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000785,CellularComponent,chromatin,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005654,CellularComponent,nucleoplasm,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005840,CellularComponent,ribosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016607,CellularComponent,nuclear speck,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034451,CellularComponent,centriolar satellite,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005758,CellularComponent,mitochondrial intermembrane space,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005819,CellularComponent,spindle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005911,CellularComponent,cell-cell junction,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005938,CellularComponent,cell cortex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030027,CellularComponent,lamellipodium,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031982,CellularComponent,vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032991,CellularComponent,protein-containing complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0036064,CellularComponent,ciliary basal body,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098794,CellularComponent,postsynapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005769,CellularComponent,early endosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032587,CellularComponent,ruffle membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005576,CellularComponent,extracellular region,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005615,CellularComponent,extracellular space,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031093,CellularComponent,platelet alpha granule lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031430,CellularComponent,M band,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031674,CellularComponent,I band,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034774,CellularComponent,secretory granule lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0061827,CellularComponent,sperm head,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1904724,CellularComponent,tertiary granule lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1904813,CellularComponent,ficolin-1-rich granule lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005815,CellularComponent,microtubule organizing center,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005856,CellularComponent,cytoskeleton,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005635,CellularComponent,nuclear envelope,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005641,CellularComponent,nuclear envelope lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016363,CellularComponent,nuclear matrix,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031965,CellularComponent,nuclear membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0048471,CellularComponent,perinuclear region of cytoplasm,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0022626,CellularComponent,cytosolic ribosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005743,CellularComponent,mitochondrial inner membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005764,CellularComponent,lysosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005768,CellularComponent,endosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005783,CellularComponent,endoplasmic reticulum,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005788,CellularComponent,endoplasmic reticulum lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005794,CellularComponent,Golgi apparatus,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005796,CellularComponent,Golgi lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005798,CellularComponent,Golgi-associated vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0009986,CellularComponent,cell surface,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030426,CellularComponent,growth cone,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031091,CellularComponent,platelet alpha granule,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031901,CellularComponent,early endosome membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031904,CellularComponent,endosome lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032588,CellularComponent,trans-Golgi network membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034361,CellularComponent,very-low-density lipoprotein particle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034362,CellularComponent,low-density lipoprotein particle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034363,CellularComponent,intermediate-density lipoprotein particle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034364,CellularComponent,high-density lipoprotein particle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043005,CellularComponent,neuron projection,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043083,CellularComponent,synaptic cleft,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043197,CellularComponent,dendritic spine,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043198,CellularComponent,dendritic shaft,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043204,CellularComponent,perikaryon,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0044297,CellularComponent,cell body,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0044304,CellularComponent,main axon,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0055037,CellularComponent,recycling endosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0070381,CellularComponent,endosome to plasma membrane transport vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0097449,CellularComponent,astrocyte projection,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098793,CellularComponent,presynapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098992,CellularComponent,neuronal dense core vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0106003,CellularComponent,amyloid-beta complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990761,CellularComponent,growth cone lamellipodium,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990777,CellularComponent,lipoprotein particle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990812,CellularComponent,growth cone filopodium,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030141,CellularComponent,secretory granule,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005730,CellularComponent,nucleolus,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005813,CellularComponent,centrosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0015630,CellularComponent,microtubule cytoskeleton,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016328,CellularComponent,lateral plasma membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005667,CellularComponent,transcription regulator complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016604,CellularComponent,nuclear body,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034751,CellularComponent,aryl hydrocarbon receptor complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034753,CellularComponent,nuclear aryl hydrocarbon receptor complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0090575,CellularComponent,RNA polymerase II transcription regulator complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000139,CellularComponent,Golgi membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005765,CellularComponent,lysosomal membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005929,CellularComponent,cilium,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030659,CellularComponent,cytoplasmic vesicle membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030666,CellularComponent,endocytic vesicle membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032590,CellularComponent,dendrite membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034399,CellularComponent,nuclear periphery,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990037,CellularComponent,Lewy body core,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990589,CellularComponent,ATF4-CREB1 transcription factor complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990590,CellularComponent,ATF1-ATF4 transcription factor complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990617,CellularComponent,CHOP-ATF4 complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0097138,CellularComponent,BAD-BCL-2 complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005891,CellularComponent,voltage-gated calcium channel complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030315,CellularComponent,T-tubule,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034702,CellularComponent,monoatomic ion channel complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0042383,CellularComponent,sarcolemma,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990454,CellularComponent,L-type voltage-gated calcium channel complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0014704,CellularComponent,intercalated disc,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016010,CellularComponent,dystrophin-associated glycoprotein complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031594,CellularComponent,neuromuscular junction,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0035985,CellularComponent,senescence-associated heterochromatin focus,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0036488,CellularComponent,CHOP-C/EBP complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0009897,CellularComponent,external side of plasma membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000791,CellularComponent,euchromatin,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0045334,CellularComponent,clathrin-coated endocytic vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098636,CellularComponent,protein complex involved in cell adhesion,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005789,CellularComponent,endoplasmic reticulum membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0012506,CellularComponent,vesicle membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000781,CellularComponent,"chromosome, telomeric region",NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031464,CellularComponent,Cul4A-RING E3 ubiquitin ligase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031465,CellularComponent,Cul4B-RING E3 ubiquitin ligase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0035861,CellularComponent,site of double-strand break,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0080008,CellularComponent,Cul4-RING E3 ubiquitin ligase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0045254,CellularComponent,pyruvate dehydrogenase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0001669,CellularComponent,acrosomal vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031514,CellularComponent,motile cilium,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043159,CellularComponent,acrosomal matrix,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0045252,CellularComponent,oxoglutarate dehydrogenase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0160157,CellularComponent,branched-chain alpha-ketoacid dehydrogenase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0160167,CellularComponent,oxoadipate dehydrogenase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000015,CellularComponent,phosphopyruvate hydratase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005640,CellularComponent,nuclear outer membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0001917,CellularComponent,photoreceptor inner segment,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0097060,CellularComponent,synaptic membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000123,CellularComponent,histone acetyltransferase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005694,CellularComponent,chromosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032993,CellularComponent,protein-DNA complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0042470,CellularComponent,melanosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0042587,CellularComponent,glycogen granule,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0001527,CellularComponent,microfibril,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005604,CellularComponent,basement membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031012,CellularComponent,extracellular matrix,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030133,CellularComponent,transport vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0012505,CellularComponent,endomembrane system,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016605,CellularComponent,PML body,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031931,CellularComponent,TORC1 complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031932,CellularComponent,TORC2 complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0045335,CellularComponent,phagocytic vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0009898,CellularComponent,cytoplasmic side of plasma membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031090,CellularComponent,organelle membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0035577,CellularComponent,azurophil granule membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043202,CellularComponent,lysosomal lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0070821,CellularComponent,tertiary granule membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0101003,CellularComponent,ficolin-1-rich granule membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0120282,CellularComponent,autolysosome lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005811,CellularComponent,lipid droplet,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0097452,CellularComponent,GAIT complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990904,CellularComponent,ribonucleoprotein complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000124,CellularComponent,SAGA complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0033276,CellularComponent,transcription factor TFTC complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0072686,CellularComponent,mitotic spindle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0140672,CellularComponent,ATAC complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005960,CellularComponent,glycine cleavage complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0070195,CellularComponent,growth hormone receptor complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0001750,CellularComponent,photoreceptor outer segment,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005834,CellularComponent,heterotrimeric G-protein complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0099524,CellularComponent,postsynaptic cytosol,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0001726,CellularComponent,ruffle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030877,CellularComponent,beta-catenin destruction complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0097440,CellularComponent,apical dendrite,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990635,CellularComponent,proximal dendrite,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990909,CellularComponent,Wnt signalosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016234,CellularComponent,inclusion body,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1904115,CellularComponent,axon cytoplasm,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016529,CellularComponent,sarcoplasmic reticulum,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0010008,CellularComponent,endosome membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0012507,CellularComponent,ER to Golgi transport vesicle membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030658,CellularComponent,transport vesicle membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030669,CellularComponent,clathrin-coated endocytic vesicle membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031902,CellularComponent,late endosome membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0042613,CellularComponent,MHC class II protein complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098553,CellularComponent,lumenal side of endoplasmic reticulum membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0001772,CellularComponent,immunological synapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005882,CellularComponent,intermediate filament,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0120281,CellularComponent,autolysosome membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005777,CellularComponent,peroxisome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005782,CellularComponent,peroxisomal matrix,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016942,CellularComponent,insulin-like growth factor binding protein complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0035867,CellularComponent,alphav-beta3 integrin-IGF-1-IGF1R complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0042567,CellularComponent,insulin-like growth factor ternary complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0070382,CellularComponent,exocytic vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0099013,CellularComponent,neuronal dense core vesicle lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005893,CellularComponent,interleukin-2 receptor complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005896,CellularComponent,interleukin-6 receptor complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0033116,CellularComponent,endoplasmic reticulum-Golgi intermediate compartment membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005770,CellularComponent,late endosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005899,CellularComponent,insulin receptor complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031981,CellularComponent,nuclear lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043231,CellularComponent,intracellular membrane-bounded organelle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005638,CellularComponent,lamin filament,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0008076,CellularComponent,voltage-gated potassium channel complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098981,CellularComponent,cholinergic synapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0099634,CellularComponent,postsynaptic specialization membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0008282,CellularComponent,inward rectifying potassium channel,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034705,CellularComponent,potassium channel complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0045177,CellularComponent,apical part of cell,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0045178,CellularComponent,basal part of cell,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0097546,CellularComponent,ciliary base,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098576,CellularComponent,lumenal side of membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990794,CellularComponent,basolateral part of cell,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000421,CellularComponent,autophagosome membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005802,CellularComponent,trans-Golgi network,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030670,CellularComponent,phagocytic vesicle membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031088,CellularComponent,platelet dense granule membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0044754,CellularComponent,autolysosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0061742,CellularComponent,chaperone-mediated autophagy translocation complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098857,CellularComponent,membrane microdomain,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0035686,CellularComponent,sperm fibrous sheath,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005652,CellularComponent,nuclear lamina,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032154,CellularComponent,cleavage furrow,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0035097,CellularComponent,histone methyltransferase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0033256,CellularComponent,I-kappaB/NF-kappaB complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0033257,CellularComponent,Bcl3/NF-kappaB2 complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043226,CellularComponent,organelle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032059,CellularComponent,bleb,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000151,CellularComponent,ubiquitin ligase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0008021,CellularComponent,synaptic vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016235,CellularComponent,aggresome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030672,CellularComponent,synaptic vesicle membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043195,CellularComponent,terminal bouton,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0097413,CellularComponent,Lewy body,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0097708,CellularComponent,intracellular vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0099073,CellularComponent,mitochondrion-derived vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990452,CellularComponent,Parkin-FBXW7-Cul1 ubiquitin ligase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043540,CellularComponent,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex",NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005945,CellularComponent,6-phosphofructokinase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0097228,CellularComponent,sperm principal piece,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990917,CellularComponent,ooplasm,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005964,CellularComponent,phosphorylase kinase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005942,CellularComponent,phosphatidylinositol 3-kinase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005943,CellularComponent,"phosphatidylinositol 3-kinase complex, class IA",NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005944,CellularComponent,"phosphatidylinositol 3-kinase complex, class IB",NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005801,CellularComponent,cis-Golgi network,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990578,CellularComponent,perinuclear endoplasmic reticulum membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005791,CellularComponent,rough endoplasmic reticulum,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1903561,CellularComponent,extracellular vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0001650,CellularComponent,fibrillar center,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000164,CellularComponent,protein phosphatase type 1 complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005912,CellularComponent,adherens junction,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0072357,CellularComponent,PTW/PP1 phosphatase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000776,CellularComponent,kinetochore,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030496,CellularComponent,midbody,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000159,CellularComponent,protein phosphatase type 2A complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000775,CellularComponent,"chromosome, centromeric region",NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000922,CellularComponent,spindle pole,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0090443,CellularComponent,FAR/SIN/STRIPAK complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0160232,CellularComponent,INTAC complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031588,CellularComponent,nucleotide-activated protein kinase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0010494,CellularComponent,cytoplasmic stress granule,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005930,CellularComponent,axoneme,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005952,CellularComponent,cAMP-dependent protein kinase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034704,CellularComponent,calcium channel complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0036126,CellularComponent,sperm flagellum,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0097225,CellularComponent,sperm midpiece,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005790,CellularComponent,smooth endoplasmic reticulum,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0035253,CellularComponent,ciliary rootlet,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0044233,CellularComponent,mitochondria-associated endoplasmic reticulum membrane contact site,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0070765,CellularComponent,gamma-secretase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0035749,CellularComponent,myelin sheath adaxonal region,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043220,CellularComponent,Schmidt-Lanterman incisure,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0099092,CellularComponent,"postsynaptic density, intracellular component",NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005793,CellularComponent,endoplasmic reticulum-Golgi intermediate compartment,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0035579,CellularComponent,specific granule membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0070161,CellularComponent,anchoring junction,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0035578,CellularComponent,azurophil granule lumen,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0015935,CellularComponent,small ribosomal subunit,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0022627,CellularComponent,cytosolic small ribosomal subunit,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032040,CellularComponent,small-subunit processome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0036464,CellularComponent,cytoplasmic ribonucleoprotein granule,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0001939,CellularComponent,female pronucleus,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0072562,CellularComponent,blood microparticle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030667,CellularComponent,secretory granule membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005771,CellularComponent,multivesicular body,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030136,CellularComponent,clathrin-coated vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030140,CellularComponent,trans-Golgi network transport vesicle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032593,CellularComponent,insulin-responsive compartment,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0009925,CellularComponent,basal plasma membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0002102,CellularComponent,podosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032937,CellularComponent,SREBP-SCAP-Insig complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005874,CellularComponent,microtubule,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032541,CellularComponent,cortical endoplasmic reticulum,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0033017,CellularComponent,sarcoplasmic reticulum membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0140535,CellularComponent,intracellular protein-containing complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0031004,CellularComponent,potassium ion-transporting ATPase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0070369,CellularComponent,beta-catenin-TCF7L2 complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0071664,CellularComponent,catenin-TCF7L2 complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990907,CellularComponent,beta-catenin-TCF complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0042645,CellularComponent,mitochondrial nucleoid,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0044306,CellularComponent,neuron projection terminus,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0045275,CellularComponent,respiratory chain complex III,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098803,CellularComponent,respiratory chain complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005657,CellularComponent,replication fork,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098554,CellularComponent,cytoplasmic side of endoplasmic reticulum membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098556,CellularComponent,cytoplasmic side of rough endoplasmic reticulum membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005643,CellularComponent,nuclear pore,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0017122,CellularComponent,protein N-acetylglucosaminyltransferase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0034045,CellularComponent,phagophore assembly site membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000118,CellularComponent,histone deacetylase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0017053,CellularComponent,transcription repressor complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0009328,CellularComponent,phenylalanine-tRNA ligase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000932,CellularComponent,P-body,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990130,CellularComponent,GATOR1 complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990131,CellularComponent,Gtr1-Gtr2 GTPase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990877,CellularComponent,FNIP-folliculin RagC/D GAP,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0000792,CellularComponent,heterochromatin,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005637,CellularComponent,nuclear inner membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005677,CellularComponent,chromatin silencing complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0033553,CellularComponent,rDNA heterochromatin,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0035098,CellularComponent,ESC/E(Z) complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0033162,CellularComponent,melanosome membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005763,CellularComponent,mitochondrial small ribosomal subunit,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0044305,CellularComponent,calyx of Held,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0060077,CellularComponent,inhibitory synapse,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0097431,CellularComponent,mitotic spindle pole,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0160295,CellularComponent,mitochondrial complex I intermediate assembly complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0055038,CellularComponent,recycling endosome membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005881,CellularComponent,cytoplasmic microtubule,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005902,CellularComponent,microvillus,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0070418,CellularComponent,DNA-dependent protein kinase complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005731,CellularComponent,nucleolus organizer region,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005721,CellularComponent,pericentric heterochromatin,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0090734,CellularComponent,site of DNA damage,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0099115,CellularComponent,"chromosome, subtelomeric region",NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0005575,CellularComponent,cellular_component,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0032009,CellularComponent,early phagosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0036186,CellularComponent,early phagosome membrane,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0044354,CellularComponent,macropinosome,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0098588,CellularComponent,bounding membrane of organelle,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0010369,CellularComponent,chromocenter,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0036502,CellularComponent,Derlin-1-VIMP complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0036513,CellularComponent,Derlin-1 retrotranslocation complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030175,CellularComponent,filopodium,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0030061,CellularComponent,mitochondrial crista,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0043292,CellularComponent,contractile muscle fiber,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:1990246,CellularComponent,uniplex complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0042627,CellularComponent,chylomicron,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0061700,CellularComponent,GATOR2 complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0044291,CellularComponent,cell-cell contact zone,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0016442,CellularComponent,RISC complex,NCBI:Gene2GO,Gene Ontology via NCBI gene2go
+GO:0160258,CellularComponent,endoplasmic reticulum-trans-Golgi network membrane contact site,NCBI:gene2go,
+GO:0033596,CellularComponent,TSC1-TSC2 complex,NCBI:gene2go,
+GO:0097342,CellularComponent,ripoptosome,NCBI:gene2go,
+GO:0016592,CellularComponent,mediator complex,NCBI:gene2go,
+GO:0045277,CellularComponent,respiratory chain complex IV,NCBI:gene2go,
+GO:0042581,CellularComponent,specific granule,NCBI:gene2go,
+GO:0042582,CellularComponent,azurophil granule,NCBI:gene2go,
+GO:0032420,CellularComponent,stereocilium,NCBI:gene2go,
+GO:0032437,CellularComponent,cuticular plate,NCBI:gene2go,
+GO:0000242,CellularComponent,pericentriolar material,NCBI:gene2go,
+GO:1902494,CellularComponent,catalytic complex,NCBI:gene2go,
+GO:0031462,CellularComponent,Cul2-RING ubiquitin ligase complex,NCBI:gene2go,
+GO:0005814,CellularComponent,centriole,NCBI:gene2go,
+GO:0000228,CellularComponent,nuclear chromosome,NCBI:gene2go,
+GO:0000793,CellularComponent,condensed chromosome,NCBI:gene2go,
+GO:0000796,CellularComponent,condensin complex,NCBI:gene2go,
+GO:0045259,CellularComponent,proton-transporting ATP synthase complex,NCBI:gene2go,
+GO:0005778,CellularComponent,peroxisomal membrane,NCBI:gene2go,
+GO:0005744,CellularComponent,TIM23 mitochondrial import inner membrane translocase complex,NCBI:gene2go,
+GO:0005883,CellularComponent,neurofilament,NCBI:gene2go,
+GO:0044232,CellularComponent,organelle membrane contact site,NCBI:gene2go,
+GO:0140268,CellularComponent,endoplasmic reticulum-plasma membrane contact site,NCBI:gene2go,
+GO:0071797,CellularComponent,LUBAC complex,NCBI:gene2go,
+GO:0031463,CellularComponent,Cul3-RING ubiquitin ligase complex,NCBI:gene2go,
+GO:0045271,CellularComponent,respiratory chain complex I,NCBI:gene2go,
+GO:0016035,CellularComponent,zeta DNA polymerase complex,NCBI:gene2go,
+GO:0005680,CellularComponent,anaphase-promoting complex,NCBI:gene2go,
+GO:0071944,CellularComponent,cell periphery,NCBI:gene2go,
+GO:0005742,CellularComponent,mitochondrial outer membrane translocase complex,NCBI:gene2go,
+GO:0180038,CellularComponent,cyclin L-CDK11 complex,NCBI:gene2go,
+GO:0071339,CellularComponent,MLL1 complex,NCBI:gene2go,
+GO:0001725,CellularComponent,stress fiber,NCBI:gene2go,
+GO:0031011,CellularComponent,Ino80 complex,NCBI:gene2go,
+GO:0030126,CellularComponent,COPI vesicle coat,NCBI:gene2go,
+GO:0005865,CellularComponent,striated muscle thin filament,NCBI:gene2go,
+GO:0005690,CellularComponent,U4atac snRNP,NCBI:gene2go,
+GO:0000307,CellularComponent,cyclin-dependent protein kinase holoenzyme complex,NCBI:gene2go,
+GO:0031428,CellularComponent,box C/D methylation guide snoRNP complex,NCBI:gene2go,
+GO:0031466,CellularComponent,Cul5-RING ubiquitin ligase complex,NCBI:gene2go,
+GO:0001651,CellularComponent,dense fibrillar component,NCBI:gene2go,
+GO:0046540,CellularComponent,U4/U6 x U5 tri-snRNP complex,NCBI:gene2go,
+GO:0098871,CellularComponent,postsynaptic actin cytoskeleton,NCBI:gene2go,
+GO:0070160,CellularComponent,tight junction,NCBI:gene2go,
+GO:0035267,CellularComponent,NuA4 histone acetyltransferase complex,NCBI:gene2go,
+GO:0043296,CellularComponent,apical junction complex,NCBI:gene2go,
+GO:0071005,CellularComponent,U2-type precatalytic spliceosome,NCBI:gene2go,
+GO:0008180,CellularComponent,COP9 signalosome,NCBI:gene2go,
+GO:0005832,CellularComponent,chaperonin-containing T-complex,NCBI:gene2go,
+GO:1990630,CellularComponent,IRE1-RACK1-PP2A complex,NCBI:gene2go,
+GO:1990531,CellularComponent,phospholipid-translocating ATPase complex,NCBI:gene2go,
+GO:0001891,CellularComponent,phagocytic cup,NCBI:gene2go,
+GO:0034066,CellularComponent,Ric1-Rgp1 guanyl-nucleotide exchange factor complex,NCBI:gene2go,
+GO:0048179,CellularComponent,activin receptor complex,NCBI:gene2go,
+GO:0030660,CellularComponent,Golgi-associated vesicle membrane,NCBI:gene2go,
+GO:0032580,CellularComponent,Golgi cisterna membrane,NCBI:gene2go,
+GO:0043020,CellularComponent,NADPH oxidase complex,NCBI:gene2go,
+GO:0034673,CellularComponent,inhibin-betaglycan-ActRII complex,NCBI:gene2go,
+GO:0044284,CellularComponent,mitochondrial crista junction,NCBI:gene2go,
+GO:0005697,CellularComponent,telomerase holoenzyme complex,NCBI:gene2go,
+GO:0099128,CellularComponent,mitochondrial [2Fe-2S] assembly complex,NCBI:gene2go,
+GO:0101031,CellularComponent,protein folding chaperone complex,NCBI:gene2go,
+GO:0120098,CellularComponent,procentriole,NCBI:gene2go,
+GO:0035355,CellularComponent,Toll-like receptor 2-Toll-like receptor 6 protein complex,NCBI:gene2go,
+GO:0097197,CellularComponent,tetraspanin-enriched microdomain,NCBI:gene2go,
+GO:0030014,CellularComponent,CCR4-NOT complex,NCBI:gene2go,
+GO:0097038,CellularComponent,perinuclear endoplasmic reticulum,NCBI:gene2go,
+GO:0000812,CellularComponent,Swr1 complex,NCBI:gene2go,
+GO:0044530,CellularComponent,supraspliceosomal complex,NCBI:gene2go,
+GO:0002193,CellularComponent,MAML1-RBP-Jkappa- ICN1 complex,NCBI:gene2go,
+GO:0045171,CellularComponent,intercellular bridge,NCBI:gene2go,
+GO:0005826,CellularComponent,actomyosin contractile ring,NCBI:gene2go,
+GO:0016342,CellularComponent,catenin complex,NCBI:gene2go,
+GO:0031258,CellularComponent,lamellipodium membrane,NCBI:gene2go,
+GO:0031941,CellularComponent,filamentous actin,NCBI:gene2go,
+GO:0098804,CellularComponent,non-motile cilium membrane,NCBI:gene2go,
+GO:0042405,CellularComponent,nuclear inclusion body,NCBI:gene2go,
+GO:0031234,CellularComponent,extrinsic component of cytoplasmic side of plasma membrane,NCBI:gene2go,
+GO:1990406,CellularComponent,CGRP receptor complex,NCBI:gene2go,
+GO:0009368,CellularComponent,endopeptidase Clp complex,NCBI:gene2go,
+GO:0009841,CellularComponent,mitochondrial endopeptidase Clp complex,NCBI:gene2go,
+GO:0005776,CellularComponent,autophagosome,NCBI:gene2go,
+GO:1904974,CellularComponent,heparanase complex,NCBI:gene2go,
+GO:0000502,CellularComponent,proteasome complex,NCBI:gene2go,
+GO:0005762,CellularComponent,mitochondrial large ribosomal subunit,NCBI:gene2go,
+GO:0098574,CellularComponent,cytoplasmic side of lysosomal membrane,NCBI:gene2go,
+GO:0032391,CellularComponent,photoreceptor connecting cilium,NCBI:gene2go,
+GO:0016282,CellularComponent,eukaryotic 43S preinitiation complex,NCBI:gene2go,
+GO:0005876,CellularComponent,spindle microtubule,NCBI:gene2go,
+GO:0043596,CellularComponent,nuclear replication fork,NCBI:gene2go,
+GO:0043614,CellularComponent,multi-eIF complex,NCBI:gene2go,
+GO:0033290,CellularComponent,eukaryotic 48S preinitiation complex,NCBI:gene2go,
+GO:0000930,CellularComponent,gamma-tubulin complex,NCBI:gene2go,
+GO:0097255,CellularComponent,R2TP complex,NCBI:gene2go,
+GO:0031616,CellularComponent,spindle pole centrosome,NCBI:gene2go,
+GO:0032473,CellularComponent,cytoplasmic side of mitochondrial outer membrane,NCBI:gene2go,
+GO:0071782,CellularComponent,endoplasmic reticulum tubular network,NCBI:gene2go,
+GO:0160064,CellularComponent,multi-pass translocon complex,NCBI:gene2go,
+GO:0031080,CellularComponent,nuclear pore outer ring,NCBI:gene2go,
+GO:0043240,CellularComponent,Fanconi anaemia nuclear complex,NCBI:gene2go,
+GO:0071821,CellularComponent,FANCM-MHF complex,NCBI:gene2go,
+GO:0070436,CellularComponent,Grb2-EGFR complex,NCBI:gene2go,
+GO:0097268,CellularComponent,cytoophidium,NCBI:gene2go,
+GO:0002141,CellularComponent,stereocilia ankle link,NCBI:gene2go,
+GO:0030122,CellularComponent,AP-2 adaptor complex,NCBI:gene2go,
+GO:0032478,CellularComponent,heterotetrameric polyprenyl diphosphate synthase complex,NCBI:gene2go,
+GO:1990742,CellularComponent,microvesicle,NCBI:gene2go,
+GO:0045179,CellularComponent,apical cortex,NCBI:gene2go,
+GO:0032449,CellularComponent,CBM complex,NCBI:gene2go,
+GO:0008091,CellularComponent,spectrin,NCBI:gene2go,
+GO:0032433,CellularComponent,filopodium tip,NCBI:gene2go,
+GO:0000794,CellularComponent,condensed nuclear chromosome,NCBI:gene2go,
+GO:0070826,CellularComponent,paraferritin complex,NCBI:gene2go,
+GO:0030870,CellularComponent,Mre11 complex,NCBI:gene2go,
+GO:0020018,CellularComponent,ciliary pocket membrane,NCBI:gene2go,
+GO:0005757,CellularComponent,mitochondrial permeability transition pore complex,NCBI:gene2go,
+GO:0070938,CellularComponent,contractile ring,NCBI:gene2go,
+GO:0005885,CellularComponent,Arp2/3 protein complex,NCBI:gene2go,
+GO:0042641,CellularComponent,actomyosin,NCBI:gene2go,
+GO:0016460,CellularComponent,myosin II complex,NCBI:gene2go,
+GO:0097513,CellularComponent,myosin II filament,NCBI:gene2go,
+GO:0035869,CellularComponent,ciliary transition zone,NCBI:gene2go,
+GO:0005745,CellularComponent,m-AAA complex,NCBI:gene2go,
+GO:0140284,CellularComponent,endoplasmic reticulum-endosome membrane contact site,NCBI:gene2go,
+GO:0044609,CellularComponent,DBIRD complex,NCBI:gene2go,
+GO:0031252,CellularComponent,cell leading edge,NCBI:gene2go,
+GO:0001931,CellularComponent,uropod,NCBI:gene2go,
+GO:0000836,CellularComponent,Hrd1p ubiquitin ligase complex,NCBI:gene2go,
+GO:0032982,CellularComponent,myosin filament,NCBI:gene2go,
+GO:0032585,CellularComponent,multivesicular body membrane,NCBI:gene2go,
+GO:0036020,CellularComponent,endolysosome membrane,NCBI:gene2go,
+GO:0005740,CellularComponent,mitochondrial envelope,NCBI:gene2go,
+GO:0180022,CellularComponent,RQC-trigger complex,NCBI:gene2go,
+GO:0030016,CellularComponent,myofibril,NCBI:gene2go,
+GO:0099617,CellularComponent,matrix side of mitochondrial inner membrane,NCBI:gene2go,
+GO:0031510,CellularComponent,SUMO activating enzyme complex,NCBI:gene2go,
+GO:0000214,CellularComponent,tRNA-intron endonuclease complex,NCBI:gene2go,
+GO:0005859,CellularComponent,muscle myosin complex,NCBI:gene2go,
+GO:0031526,CellularComponent,brush border membrane,NCBI:gene2go,
+GO:0031256,CellularComponent,leading edge membrane,NCBI:gene2go,
+GO:0035371,CellularComponent,microtubule plus-end,NCBI:gene2go,
+GO:0055028,CellularComponent,cortical microtubule,NCBI:gene2go,
+GO:0036449,CellularComponent,microtubule minus-end,NCBI:gene2go,
+GO:1990023,CellularComponent,mitotic spindle midzone,NCBI:gene2go,
+GO:0000176,CellularComponent,nuclear exosome (RNase complex),NCBI:gene2go,
+GO:0097427,CellularComponent,microtubule bundle,NCBI:gene2go,
+GO:0099738,CellularComponent,cell cortex region,NCBI:gene2go,
+GO:1905720,CellularComponent,cytoplasmic microtubule bundle,NCBI:gene2go,
+GO:0061673,CellularComponent,mitotic spindle astral microtubule,NCBI:gene2go,
+GO:0030904,CellularComponent,retromer complex,NCBI:gene2go,
+GO:0097422,CellularComponent,tubular endosome,NCBI:gene2go,
+GO:0072559,CellularComponent,NLRP3 inflammasome complex,NCBI:gene2go,
+GO:0031905,CellularComponent,early endosome lumen,NCBI:gene2go,
+GO:0014731,CellularComponent,spectrin-associated cytoskeleton,NCBI:gene2go,
+GO:0097140,CellularComponent,BIM-BCL-xl complex,NCBI:gene2go,
+GO:0097141,CellularComponent,BIM-BCL-2 complex,NCBI:gene2go,
+GO:1905202,CellularComponent,methylcrotonoyl-CoA carboxylase complex,NCBI:gene2go,
+GO:0170014,CellularComponent,ankyrin-1 complex,NCBI:gene2go,
+GO:0061617,CellularComponent,MICOS complex,NCBI:gene2go,
+GO:0071817,CellularComponent,MMXD complex,NCBI:gene2go,
+GO:0001533,CellularComponent,cornified envelope,NCBI:gene2go,
+GO:0005875,CellularComponent,microtubule associated complex,NCBI:gene2go,
+GO:1990665,CellularComponent,AnxA2-p11 complex,NCBI:gene2go,
+GO:1990667,CellularComponent,PCSK9-AnxA2 complex,NCBI:gene2go,
+GO:0043293,CellularComponent,apoptosome,NCBI:gene2go,
+GO:0005923,CellularComponent,bicellular tight junction,NCBI:gene2go,
+GO:0030127,CellularComponent,COPII vesicle coat,NCBI:gene2go,
+GO:0030134,CellularComponent,COPII-coated ER to Golgi transport vesicle,NCBI:gene2go,
+GO:0031595,CellularComponent,nuclear proteasome complex,NCBI:gene2go,
+GO:0031597,CellularComponent,cytosolic proteasome complex,NCBI:gene2go,
+GO:0031461,CellularComponent,cullin-RING ubiquitin ligase complex,NCBI:gene2go,
+GO:0031467,CellularComponent,Cul7-RING ubiquitin ligase complex,NCBI:gene2go,
+GO:0019005,CellularComponent,SCF ubiquitin ligase complex,NCBI:gene2go,
+GO:0072546,CellularComponent,EMC complex,NCBI:gene2go,
+GO:0031253,CellularComponent,cell projection membrane,NCBI:gene2go,
+GO:0000808,CellularComponent,origin recognition complex,NCBI:gene2go,
+GO:0005664,CellularComponent,nuclear origin of replication recognition complex,NCBI:gene2go,
+GO:0032777,CellularComponent,piccolo histone acetyltransferase complex,NCBI:gene2go,
+GO:0030139,CellularComponent,endocytic vesicle,NCBI:gene2go,
+GO:0097447,CellularComponent,dendritic tree,NCBI:gene2go,
+GO:0043229,CellularComponent,intracellular organelle,NCBI:gene2go,
+GO:0035145,CellularComponent,exon-exon junction complex,NCBI:gene2go,
+GO:0034366,CellularComponent,spherical high-density lipoprotein particle,NCBI:gene2go,
+GO:0000786,CellularComponent,nucleosome,NCBI:gene2go,
+GO:0043528,CellularComponent,tRNA (m2G10) methyltransferase complex,NCBI:gene2go,
+GO:0034359,CellularComponent,mature chylomicron,NCBI:gene2go,
+GO:0035770,CellularComponent,ribonucleoprotein granule,NCBI:gene2go,
+GO:0030895,CellularComponent,apolipoprotein B mRNA editing enzyme complex,NCBI:gene2go,
+GO:0070971,CellularComponent,endoplasmic reticulum exit site,NCBI:gene2go,
+GO:0046691,CellularComponent,intracellular canaliculus,NCBI:gene2go,
+GO:0051233,CellularComponent,spindle midzone,NCBI:gene2go,
+GO:0071013,CellularComponent,catalytic step 2 spliceosome,NCBI:gene2go,
+GO:0000262,CellularComponent,mitochondrial chromosome,NCBI:gene2go,
+GO:0036457,CellularComponent,keratohyalin granule,NCBI:gene2go,
+GO:0097524,CellularComponent,sperm plasma membrane,NCBI:gene2go,
+GO:0034360,CellularComponent,chylomicron remnant,NCBI:gene2go,
+GO:0005827,CellularComponent,polar microtubule,NCBI:gene2go,
+GO:0097487,CellularComponent,"multivesicular body, internal vesicle",NCBI:gene2go,
+GO:0031265,CellularComponent,CD95 death-inducing signaling complex,NCBI:gene2go,
+GO:0031264,CellularComponent,death-inducing signaling complex,NCBI:gene2go,
+GO:0016222,CellularComponent,procollagen-proline 4-dioxygenase complex,NCBI:gene2go,
+GO:0005684,CellularComponent,U2-type spliceosomal complex,NCBI:gene2go,
+GO:0000235,CellularComponent,astral microtubule,NCBI:gene2go,
+GO:0033503,CellularComponent,HULC complex,NCBI:gene2go,
+GO:0097226,CellularComponent,sperm mitochondrial sheath,NCBI:gene2go,
+GO:0000407,CellularComponent,phagophore assembly site,NCBI:gene2go,
+GO:0098592,CellularComponent,cytoplasmic side of apical plasma membrane,NCBI:gene2go,
+GO:0097227,CellularComponent,sperm annulus,NCBI:gene2go,
+GO:0030897,CellularComponent,HOPS complex,NCBI:gene2go,
+GO:1990393,CellularComponent,3M complex,NCBI:gene2go,
+GO:0032302,CellularComponent,MutSbeta complex,NCBI:gene2go,
+GO:0034098,CellularComponent,VCP-NPL4-UFD1 AAA ATPase complex,NCBI:gene2go,
+GO:0030915,CellularComponent,Smc5-Smc6 complex,NCBI:gene2go,
+GO:0016939,CellularComponent,kinesin II complex,NCBI:gene2go,
+GO:0032301,CellularComponent,MutSalpha complex,NCBI:gene2go,
+GO:0031390,CellularComponent,Ctf18 RFC-like complex,NCBI:gene2go,
+GO:0140007,CellularComponent,KICSTOR complex,NCBI:gene2go,
+GO:0071006,CellularComponent,U2-type catalytic step 1 spliceosome,NCBI:gene2go,
+GO:0044322,CellularComponent,endoplasmic reticulum quality control compartment,NCBI:gene2go,
+GO:0034365,CellularComponent,discoidal high-density lipoprotein particle,NCBI:gene2go,
+GO:0043529,CellularComponent,GET complex,NCBI:gene2go,
+GO:0071007,CellularComponent,U2-type catalytic step 2 spliceosome,NCBI:gene2go,
+GO:0097182,CellularComponent,protein C inhibitor-coagulation factor Xa complex,NCBI:gene2go,
+GO:0097183,CellularComponent,protein C inhibitor-coagulation factor XI complex,NCBI:gene2go,
+GO:0062157,CellularComponent,mitochondrial ATP-gated potassium channel complex,NCBI:gene2go,
+GO:0002080,CellularComponent,acrosomal membrane,NCBI:gene2go,
+GO:0097181,CellularComponent,protein C inhibitor-coagulation factor V complex,NCBI:gene2go,
+GO:0070557,CellularComponent,PCNA-p21 complex,NCBI:gene2go,
+GO:0036025,CellularComponent,protein C inhibitor-TMPRSS11E complex,NCBI:gene2go,
+GO:0036024,CellularComponent,protein C inhibitor-TMPRSS7 complex,NCBI:gene2go,
+GO:0036026,CellularComponent,protein C inhibitor-PLAT complex,NCBI:gene2go,
+GO:0036027,CellularComponent,protein C inhibitor-PLAU complex,NCBI:gene2go,
+GO:0036028,CellularComponent,protein C inhibitor-thrombin complex,NCBI:gene2go,
+GO:0036029,CellularComponent,protein C inhibitor-KLK3 complex,NCBI:gene2go,
+GO:0036030,CellularComponent,protein C inhibitor-plasma kallikrein complex,NCBI:gene2go,
+GO:0031094,CellularComponent,platelet dense tubular network,NCBI:gene2go,
+GO:0043626,CellularComponent,PCNA complex,NCBI:gene2go,
+GO:1990391,CellularComponent,DNA repair complex,NCBI:gene2go,
+GO:0030678,CellularComponent,mitochondrial ribonuclease P complex,NCBI:gene2go,
+GO:0005890,CellularComponent,sodium:potassium-exchanging ATPase complex,NCBI:gene2go,
+GO:0032797,CellularComponent,SMN complex,NCBI:gene2go,
+GO:0034719,CellularComponent,SMN-Sm protein complex,NCBI:gene2go,
+GO:0005760,CellularComponent,gamma DNA polymerase complex,NCBI:gene2go,
+GO:0097542,CellularComponent,ciliary tip,NCBI:gene2go,
+GO:0031985,CellularComponent,Golgi cisterna,NCBI:gene2go,
+GO:0097733,CellularComponent,photoreceptor cell cilium,NCBI:gene2go,
+GO:0120200,CellularComponent,rod photoreceptor outer segment,NCBI:gene2go,
+GO:0098855,CellularComponent,HCN channel complex,NCBI:gene2go,
+GO:0000814,CellularComponent,ESCRT II complex,NCBI:gene2go,
+GO:0031673,CellularComponent,H zone,NCBI:gene2go,
+GO:0032045,CellularComponent,guanyl-nucleotide exchange factor complex,NCBI:gene2go,
+GO:0014801,CellularComponent,longitudinal sarcoplasmic reticulum,NCBI:gene2go,
+GO:0090534,CellularComponent,calcium ion-transporting ATPase complex,NCBI:gene2go,
+GO:0019897,CellularComponent,extrinsic component of plasma membrane,NCBI:gene2go,
+GO:0001740,CellularComponent,Barr body,NCBI:gene2go,
+GO:0071004,CellularComponent,U2-type prespliceosome,NCBI:gene2go,
+GO:0035632,CellularComponent,mitochondrial prohibitin complex,NCBI:gene2go,
+GO:0000221,CellularComponent,"vacuolar proton-transporting V-type ATPase, V1 domain",NCBI:gene2go,
+GO:0090543,CellularComponent,Flemming body,NCBI:gene2go,
+GO:0046612,CellularComponent,"lysosomal proton-transporting V-type ATPase, V1 domain",NCBI:gene2go,
+GO:0017059,CellularComponent,serine palmitoyltransferase complex,NCBI:gene2go,
+GO:0097149,CellularComponent,centralspindlin complex,NCBI:gene2go,
+GO:0097208,CellularComponent,alveolar lamellar body,NCBI:gene2go,
+GO:0030688,CellularComponent,"preribosome, small subunit precursor",NCBI:gene2go,
+GO:0030956,CellularComponent,glutamyl-tRNA(Gln) amidotransferase complex,NCBI:gene2go,
+GO:0072558,CellularComponent,NLRP1 inflammasome complex,NCBI:gene2go,
+GO:0061702,CellularComponent,canonical inflammasome complex,NCBI:gene2go,
+GO:0097730,CellularComponent,non-motile cilium,NCBI:gene2go,
+GO:0097169,CellularComponent,AIM2 inflammasome complex,NCBI:gene2go,
+GO:0042721,CellularComponent,TIM22 mitochondrial import inner membrane insertion complex,NCBI:gene2go,
+GO:0097629,CellularComponent,extrinsic component of omegasome membrane,NCBI:gene2go,
+GO:0097632,CellularComponent,extrinsic component of phagophore assembly site membrane,NCBI:gene2go,
+GO:1902911,CellularComponent,protein kinase complex,NCBI:gene2go,
+GO:1990604,CellularComponent,IRE1-TRAF2-ASK1 complex,NCBI:gene2go,
+GO:0042824,CellularComponent,MHC class I peptide loading complex,NCBI:gene2go,
+GO:0005682,CellularComponent,U5 snRNP,NCBI:gene2go,
+GO:1990712,CellularComponent,HFE-transferrin receptor complex,NCBI:gene2go,
+GO:0097550,CellularComponent,transcription preinitiation complex,NCBI:gene2go,
+GO:0016272,CellularComponent,prefoldin complex,NCBI:gene2go,
+GO:0043190,CellularComponent,ATP-binding cassette (ABC) transporter complex,NCBI:gene2go,
+GO:0046930,CellularComponent,pore complex,NCBI:gene2go,
+GO:0031436,CellularComponent,BRCA1-BARD1 complex,NCBI:gene2go,
+GO:0097136,CellularComponent,Bcl-2 family protein complex,NCBI:gene2go,
+GO:0097145,CellularComponent,BAK complex,NCBI:gene2go,
+GO:0031499,CellularComponent,TRAMP complex,NCBI:gene2go,
+GO:0070531,CellularComponent,BRCA1-A complex,NCBI:gene2go,
+GO:0022625,CellularComponent,cytosolic large ribosomal subunit,NCBI:gene2go,
+GO:0097144,CellularComponent,BAX complex,NCBI:gene2go,
+GO:0000308,CellularComponent,cytoplasmic cyclin-dependent protein kinase holoenzyme complex,NCBI:gene2go,
+GO:0034464,CellularComponent,BBSome,NCBI:gene2go,
+GO:0060170,CellularComponent,ciliary membrane,NCBI:gene2go,
+GO:0031201,CellularComponent,SNARE complex,NCBI:gene2go,
+GO:0043034,CellularComponent,costamere,NCBI:gene2go,
+GO:0033106,CellularComponent,cis-Golgi network membrane,NCBI:gene2go,
+GO:0030906,CellularComponent,"retromer, cargo-selective complex",NCBI:gene2go,
+GO:0005914,CellularComponent,spot adherens junction,NCBI:gene2go,
+GO:0042555,CellularComponent,MCM complex,NCBI:gene2go,
+GO:0001401,CellularComponent,SAM complex,NCBI:gene2go,
+GO:0042101,CellularComponent,T cell receptor complex,NCBI:gene2go,
+GO:0000506,CellularComponent,glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex,NCBI:gene2go,
+GO:0097731,CellularComponent,9+0 non-motile cilium,NCBI:gene2go,
+GO:0044545,CellularComponent,NSL complex,NCBI:gene2go,
+GO:0000800,CellularComponent,lateral element,NCBI:gene2go,
+GO:0106139,CellularComponent,symbiont cell surface,NCBI:gene2go,
+GO:0098799,CellularComponent,outer mitochondrial membrane protein complex,NCBI:gene2go,
+GO:0043209,CellularComponent,myelin sheath,NCBI:gene2go,
+GO:0061574,CellularComponent,ASAP complex,NCBI:gene2go,
+GO:0070419,CellularComponent,nonhomologous end joining complex,NCBI:gene2go,
+GO:0048269,CellularComponent,methionine adenosyltransferase complex,NCBI:gene2go,
+GO:0070724,CellularComponent,BMP receptor complex,NCBI:gene2go,
+GO:0034274,CellularComponent,Atg12-Atg5-Atg16 complex,NCBI:gene2go,
+GO:0097361,CellularComponent,cytosolic [4Fe-4S] assembly targeting complex,NCBI:gene2go,
+GO:0017101,CellularComponent,aminoacyl-tRNA synthetase multienzyme complex,NCBI:gene2go,
+GO:0000779,CellularComponent,"condensed chromosome, centromeric region",NCBI:gene2go,
+GO:0005681,CellularComponent,spliceosomal complex,NCBI:gene2go,
+GO:0070939,CellularComponent,Dsl1/NZR complex,NCBI:gene2go,
+GO:1990423,CellularComponent,RZZ complex,NCBI:gene2go,
+GO:0005828,CellularComponent,kinetochore microtubule,NCBI:gene2go,
+GO:0045298,CellularComponent,tubulin complex,NCBI:gene2go,
+GO:0097418,CellularComponent,neurofibrillary tangle,NCBI:gene2go,
+GO:0030673,CellularComponent,axolemma,NCBI:gene2go,
+GO:0160281,CellularComponent,cytoplasmic side of trans-Golgi network membrane,NCBI:gene2go,
+GO:0016327,CellularComponent,apicolateral plasma membrane,NCBI:gene2go,
+GO:0030684,CellularComponent,preribosome,NCBI:gene2go,
+GO:0008278,CellularComponent,cohesin complex,NCBI:gene2go,
+GO:0030893,CellularComponent,meiotic cohesin complex,NCBI:gene2go,
+GO:0031083,CellularComponent,BLOC-1 complex,NCBI:gene2go,
+GO:0099078,CellularComponent,BORC complex,NCBI:gene2go,
+GO:0016471,CellularComponent,vacuolar proton-transporting V-type ATPase complex,NCBI:gene2go,
+GO:0034703,CellularComponent,cation channel complex,NCBI:gene2go,
+GO:0016581,CellularComponent,NuRD complex,NCBI:gene2go,
+GO:0140494,CellularComponent,migrasome,NCBI:gene2go,
+GO:0005797,CellularComponent,Golgi medial cisterna,NCBI:gene2go,
+GO:1990676,CellularComponent,Golgi trans cisterna membrane,NCBI:gene2go,
+GO:0000138,CellularComponent,Golgi trans cisterna,NCBI:gene2go,
+GO:0045180,CellularComponent,basal cortex,NCBI:gene2go,
+GO:0044666,CellularComponent,MLL3/4 complex,NCBI:gene2go,
+GO:0048188,CellularComponent,Set1C/COMPASS complex,NCBI:gene2go,
+GO:0000940,CellularComponent,outer kinetochore,NCBI:gene2go,
+GO:0035061,CellularComponent,interchromatin granule,NCBI:gene2go,
+GO:1903958,CellularComponent,nitric-oxide synthase complex,NCBI:gene2go,
+GO:0043218,CellularComponent,compact myelin,NCBI:gene2go,
+GO:0071595,CellularComponent,Nem1-Spo7 phosphatase complex,NCBI:gene2go,
+GO:0031251,CellularComponent,PAN complex,NCBI:gene2go,
+GO:1990666,CellularComponent,PCSK9-LDLR complex,NCBI:gene2go,
+GO:0005601,CellularComponent,classical-complement-pathway C3/C5 convertase complex,NCBI:gene2go,
+GO:0098548,CellularComponent,cytoplasmic side of Golgi membrane,NCBI:gene2go,
+GO:0044295,CellularComponent,axonal growth cone,NCBI:gene2go,
+GO:0000938,CellularComponent,GARP complex,NCBI:gene2go,
+GO:1990745,CellularComponent,EARP complex,NCBI:gene2go,
+GO:0005761,CellularComponent,mitochondrial ribosome,NCBI:gene2go,
+GO:0017177,CellularComponent,glucosidase II complex,NCBI:gene2go,
+GO:0097362,CellularComponent,MCM8-MCM9 complex,NCBI:gene2go,
+GO:0071141,CellularComponent,SMAD protein complex,NCBI:gene2go,
+GO:0032444,CellularComponent,activin responsive factor complex,NCBI:gene2go,
+GO:0034993,CellularComponent,meiotic nuclear membrane microtubule tethering complex,NCBI:gene2go,
+GO:0045111,CellularComponent,intermediate filament cytoskeleton,NCBI:gene2go,
+GO:0071203,CellularComponent,WASH complex,NCBI:gene2go,
+GO:0031527,CellularComponent,filopodium membrane,NCBI:gene2go,
+GO:0005892,CellularComponent,acetylcholine-gated channel complex,NCBI:gene2go,
+GO:0071144,CellularComponent,heteromeric SMAD protein complex,NCBI:gene2go,
+GO:0005954,CellularComponent,calcium- and calmodulin-dependent protein kinase complex,NCBI:gene2go,
+GO:0031045,CellularComponent,dense core granule,NCBI:gene2go,
+GO:0005773,CellularComponent,vacuole,NCBI:gene2go,
+GO:0044615,CellularComponent,nuclear pore nuclear basket,NCBI:gene2go,
+GO:0030056,CellularComponent,hemidesmosome,NCBI:gene2go,
+GO:0005847,CellularComponent,mRNA cleavage and polyadenylation specificity factor complex,NCBI:gene2go,
+GO:0005851,CellularComponent,eukaryotic translation initiation factor 2B complex,NCBI:gene2go,
+GO:0043232,CellularComponent,intracellular membraneless organelle,NCBI:gene2go,
+GO:0044753,CellularComponent,amphisome,NCBI:gene2go,
+GO:1990674,CellularComponent,Golgi cis cisterna membrane,NCBI:gene2go,
+GO:0160074,CellularComponent,non-canonical inflammasome complex,NCBI:gene2go,
+GO:0032144,CellularComponent,4-aminobutyrate transaminase complex,NCBI:gene2go,
+GO:0097233,CellularComponent,alveolar lamellar body membrane,NCBI:gene2go,
+GO:0000178,CellularComponent,exosome (RNase complex),NCBI:gene2go,
+GO:0031105,CellularComponent,septin complex,NCBI:gene2go,
+GO:0070578,CellularComponent,RISC-loading complex,NCBI:gene2go,
+GO:0000109,CellularComponent,nucleotide-excision repair complex,NCBI:gene2go,
+GO:0034358,CellularComponent,plasma lipoprotein particle,NCBI:gene2go,
+GO:0043625,CellularComponent,delta DNA polymerase complex,NCBI:gene2go,
+GO:0008622,CellularComponent,epsilon DNA polymerase complex,NCBI:gene2go,
+GO:0033011,CellularComponent,perinuclear theca,NCBI:gene2go,
+GO:0033150,CellularComponent,cytoskeletal calyx,NCBI:gene2go,
+GO:0120238,CellularComponent,sperm glycocalyx,NCBI:gene2go,
+GO:0031519,CellularComponent,PcG protein complex,NCBI:gene2go,
+GO:0097124,CellularComponent,cyclin A2-CDK2 complex,NCBI:gene2go,
+GO:0097125,CellularComponent,cyclin B1-CDK1 complex,NCBI:gene2go,
+GO:0034707,CellularComponent,chloride channel complex,NCBI:gene2go,
+GO:0005689,CellularComponent,U12-type spliceosomal complex,NCBI:gene2go,
+GO:0005958,CellularComponent,DNA-dependent protein kinase-DNA ligase 4 complex,NCBI:gene2go,
+GO:1904949,CellularComponent,ATPase complex,NCBI:gene2go,
+GO:0070421,CellularComponent,DNA ligase III-XRCC1 complex,NCBI:gene2go,
+GO:0005955,CellularComponent,calcineurin complex,NCBI:gene2go,
+GO:0005666,CellularComponent,RNA polymerase III complex,NCBI:gene2go,
+GO:0140738,CellularComponent,NLRP6 inflammasome complex,NCBI:gene2go,
+GO:0043228,CellularComponent,membraneless organelle,NCBI:gene2go,
+GO:0005868,CellularComponent,cytoplasmic dynein complex,NCBI:gene2go,
+GO:0098536,CellularComponent,deuterosome,NCBI:gene2go,
+GO:0097729,CellularComponent,9+2 motile cilium,NCBI:gene2go,
+GO:0120134,CellularComponent,proximal portion of axoneme,NCBI:gene2go,
+GO:0015030,CellularComponent,Cajal body,NCBI:gene2go,
+GO:0005852,CellularComponent,eukaryotic translation initiation factor 3 complex,NCBI:gene2go,
+GO:0000439,CellularComponent,transcription factor TFIIH core complex,NCBI:gene2go,
+GO:0005675,CellularComponent,transcription factor TFIIH holo complex,NCBI:gene2go,
+GO:0070516,CellularComponent,CAK-ERCC2 complex,NCBI:gene2go,
+GO:0070985,CellularComponent,transcription factor TFIIK complex,NCBI:gene2go,
+GO:0098591,CellularComponent,external side of apical plasma membrane,NCBI:gene2go,
+GO:0008023,CellularComponent,transcription elongation factor complex,NCBI:gene2go,
+GO:0008024,CellularComponent,cyclin/CDK positive transcription elongation factor complex,NCBI:gene2go,
+GO:0070691,CellularComponent,P-TEFb complex,NCBI:gene2go,
+GO:0036019,CellularComponent,endolysosome,NCBI:gene2go,
+GO:0097229,CellularComponent,sperm end piece,NCBI:gene2go,
+GO:0036157,CellularComponent,outer dynein arm,NCBI:gene2go,
+GO:0120095,CellularComponent,vacuole-isolation membrane contact site,NCBI:gene2go,
+GO:0035102,CellularComponent,PRC1 complex,NCBI:gene2go,
+GO:0097356,CellularComponent,perinucleolar compartment,NCBI:gene2go,
+GO:0106333,CellularComponent,subcortical maternal complex,NCBI:gene2go,
+GO:0008385,CellularComponent,IkappaB kinase complex,NCBI:gene2go,
+GO:0005915,CellularComponent,zonula adherens,NCBI:gene2go,
+GO:0097409,CellularComponent,glial cytoplasmic inclusion,NCBI:gene2go,
+GO:0097414,CellularComponent,classical Lewy body,NCBI:gene2go,
+GO:0097462,CellularComponent,Lewy neurite,NCBI:gene2go,
+GO:0032994,CellularComponent,protein-lipid complex,NCBI:gene2go,
+GO:1990038,CellularComponent,Lewy body corona,NCBI:gene2go,
+GO:1990597,CellularComponent,AIP1-IRE1 complex,NCBI:gene2go,
+GO:0030123,CellularComponent,AP-3 adaptor complex,NCBI:gene2go,
+GO:0009923,CellularComponent,fatty acid elongase complex,NCBI:gene2go,
+GO:0016589,CellularComponent,NURF complex,NCBI:gene2go,
+GO:0034709,CellularComponent,methylosome,NCBI:gene2go,
+GO:0120103,CellularComponent,centriolar subdistal appendage,NCBI:gene2go,
+GO:0070761,CellularComponent,pre-snoRNP complex,NCBI:gene2go,
+GO:7770010,CellularComponent,GTPBP3-MTO1 complex,NCBI:gene2go,
+GO:0099020,CellularComponent,perinuclear endoplasmic reticulum lumen,NCBI:gene2go,
+GO:0071986,CellularComponent,Ragulator complex,NCBI:gene2go,
+GO:0005795,CellularComponent,Golgi stack,NCBI:gene2go,
+GO:0034715,CellularComponent,pICln-Sm protein complex,NCBI:gene2go,
+GO:7770001,CellularComponent,mitochondrial pyruvate carrier complex,NCBI:gene2go,
+GO:1903349,CellularComponent,omegasome membrane,NCBI:gene2go,
+GO:0005584,CellularComponent,collagen type I trimer,NCBI:gene2go,
+GO:0005594,CellularComponent,collagen type IX trimer,NCBI:gene2go,
+GO:0035976,CellularComponent,transcription factor AP-1 complex,NCBI:gene2go,
+GO:0098797,CellularComponent,plasma membrane protein complex,NCBI:gene2go,
+GO:1990234,CellularComponent,transferase complex,NCBI:gene2go,
+GO:0000815,CellularComponent,ESCRT III complex,NCBI:gene2go,
+GO:0070069,CellularComponent,cytochrome complex,NCBI:gene2go,
+GO:0035517,CellularComponent,PR-DUB complex,NCBI:gene2go,
+GO:1904930,CellularComponent,amphisome membrane,NCBI:gene2go,
+GO:0036156,CellularComponent,inner dynein arm,NCBI:gene2go,
+GO:0030132,CellularComponent,clathrin coat of coated pit,NCBI:gene2go,
+GO:0030663,CellularComponent,COPI-coated vesicle membrane,NCBI:gene2go,
+GO:1990752,CellularComponent,microtubule end,NCBI:gene2go,
+GO:0097232,CellularComponent,lamellar body membrane,NCBI:gene2go,
+GO:0071818,CellularComponent,BAT3 complex,NCBI:gene2go,
+GO:1902562,CellularComponent,H4 histone acetyltransferase complex,NCBI:gene2go,
+GO:0097443,CellularComponent,sorting endosome,NCBI:gene2go,
+GO:0140596,CellularComponent,TOM complex,NCBI:gene2go,
+GO:0030135,CellularComponent,coated vesicle,NCBI:gene2go,
+GO:0036398,CellularComponent,TCR signalosome,NCBI:gene2go,
+GO:0032299,CellularComponent,ribonuclease H2 complex,NCBI:gene2go,
+GO:1990184,CellularComponent,amino acid transport complex,NCBI:gene2go,
+GO:0031528,CellularComponent,microvillus membrane,NCBI:gene2go,
+GO:0005839,CellularComponent,proteasome core complex,NCBI:gene2go,
+GO:0045095,CellularComponent,keratin filament,NCBI:gene2go,
+GO:0019773,CellularComponent,"proteasome core complex, alpha-subunit complex",NCBI:gene2go,
+GO:0035868,CellularComponent,alphav-beta3 integrin-HMGB1 complex,NCBI:gene2go,
+GO:0034683,CellularComponent,integrin alphav-beta3 complex,NCBI:gene2go,
+GO:0035866,CellularComponent,alphav-beta3 integrin-PKCalpha complex,NCBI:gene2go,
+GO:0070442,CellularComponent,integrin alphaIIb-beta3 complex,NCBI:gene2go,
+GO:0032039,CellularComponent,integrator complex,NCBI:gene2go,
+GO:0005956,CellularComponent,protein kinase CK2 complex,NCBI:gene2go,
+GO:0008250,CellularComponent,oligosaccharyltransferase complex,NCBI:gene2go,
+GO:0070822,CellularComponent,Sin3-type complex,NCBI:gene2go,
+GO:1990204,CellularComponent,oxidoreductase complex,NCBI:gene2go,
+GO:0008305,CellularComponent,integrin complex,NCBI:gene2go,
+GO:0005688,CellularComponent,U6 snRNP,NCBI:gene2go,
+GO:0000346,CellularComponent,transcription export complex,NCBI:gene2go,
+GO:0005687,CellularComponent,U4 snRNP,NCBI:gene2go,
+GO:0034689,CellularComponent,integrin alphaX-beta2 complex,NCBI:gene2go,
+GO:0034690,CellularComponent,integrin alphaD-beta2 complex,NCBI:gene2go,
+GO:0034687,CellularComponent,integrin alphaL-beta2 complex,NCBI:gene2go,
+GO:0034688,CellularComponent,integrin alphaM-beta2 complex,NCBI:gene2go,
+GO:0034684,CellularComponent,integrin alphav-beta5 complex,NCBI:gene2go,
+GO:0034685,CellularComponent,integrin alphav-beta6 complex,NCBI:gene2go,
+GO:0034686,CellularComponent,integrin alphav-beta8 complex,NCBI:gene2go,
+GO:0097209,CellularComponent,epidermal lamellar body,NCBI:gene2go,
+GO:0097234,CellularComponent,epidermal lamellar body membrane,NCBI:gene2go,
+GO:0070937,CellularComponent,CRD-mediated mRNA stability complex,NCBI:gene2go,
+GO:0035805,CellularComponent,egg coat,NCBI:gene2go,
+GO:0030057,CellularComponent,desmosome,NCBI:gene2go,
+GO:0008290,CellularComponent,F-actin capping protein complex,NCBI:gene2go,
+GO:0008540,CellularComponent,"proteasome regulatory particle, base subcomplex",NCBI:gene2go,
+GO:0099503,CellularComponent,secretory vesicle,NCBI:gene2go,
+GO:0034706,CellularComponent,sodium channel complex,NCBI:gene2go,
+GO:0022624,CellularComponent,proteasome accessory complex,NCBI:gene2go,
+GO:0043564,CellularComponent,Ku70:Ku80 complex,NCBI:gene2go,
+GO:0033063,CellularComponent,Rad51B-Rad51C-Rad51D-XRCC2 complex,NCBI:gene2go,
+GO:0033065,CellularComponent,Rad51C-XRCC3 complex,NCBI:gene2go,
+GO:0043509,CellularComponent,activin A complex,NCBI:gene2go,
+GO:0042719,CellularComponent,mitochondrial intermembrane space chaperone complex,NCBI:gene2go,
+GO:0043512,CellularComponent,inhibin A complex,NCBI:gene2go,
+GO:0019866,CellularComponent,organelle inner membrane,NCBI:gene2go,
+GO:0005726,CellularComponent,perichromatin fibrils,NCBI:gene2go,
+GO:0140095,CellularComponent,cytoplasmic lattice,NCBI:gene2go,
+GO:0032432,CellularComponent,actin filament bundle,NCBI:gene2go,
+GO:7770013,CellularComponent,humanin receptor complex,NCBI:gene2go,
+GO:0070110,CellularComponent,ciliary neurotrophic factor receptor complex,NCBI:gene2go,
+GO:0060473,CellularComponent,cortical granule,NCBI:gene2go,
+GO:0005900,CellularComponent,type I oncostatin-M receptor complex,NCBI:gene2go,
+GO:0097196,CellularComponent,Shu complex,NCBI:gene2go,
+GO:0005922,CellularComponent,connexin complex,NCBI:gene2go,
+GO:0016593,CellularComponent,Cdc73/Paf1 complex,NCBI:gene2go,
+GO:1902792,CellularComponent,pyrroline-5-carboxylate reductase complex,NCBI:gene2go,
+GO:0071920,CellularComponent,cleavage body,NCBI:gene2go,
+GO:0072669,CellularComponent,tRNA-splicing ligase complex,NCBI:gene2go,
+GO:1990622,CellularComponent,CHOP-ATF3 complex,NCBI:gene2go,
+GO:0098559,CellularComponent,cytoplasmic side of early endosome membrane,NCBI:gene2go,
+GO:0070685,CellularComponent,macropinocytic cup,NCBI:gene2go,
+GO:0031391,CellularComponent,Elg1 RFC-like complex,NCBI:gene2go,
+GO:1904423,CellularComponent,dehydrodolichyl diphosphate synthase complex,NCBI:gene2go,
+GO:0097165,CellularComponent,nuclear stress granule,NCBI:gene2go,
+GO:0120510,CellularComponent,mitochondrial [4Fe-4S] assembly complex,NCBI:gene2go,
+GO:0030892,CellularComponent,mitotic cohesin complex,NCBI:gene2go,
+GO:0071008,CellularComponent,U2-type post-mRNA release spliceosomal complex,NCBI:gene2go,
+GO:0031371,CellularComponent,ubiquitin conjugating enzyme complex,NCBI:gene2go,
+GO:0031372,CellularComponent,UBC13-MMS2 complex,NCBI:gene2go,
+GO:0071439,CellularComponent,clathrin complex,NCBI:gene2go,
+GO:0005774,CellularComponent,vacuolar membrane,NCBI:gene2go,
+GO:0099400,CellularComponent,caveola neck,NCBI:gene2go,
+GO:0032839,CellularComponent,dendrite cytoplasm,NCBI:gene2go,
+GO:0030867,CellularComponent,rough endoplasmic reticulum membrane,NCBI:gene2go,
+GO:0071942,CellularComponent,XPC complex,NCBI:gene2go,
+GO:0120135,CellularComponent,distal portion of axoneme,NCBI:gene2go,
+GO:0045242,CellularComponent,isocitrate dehydrogenase complex (NAD+),NCBI:gene2go,
+GO:0099182,CellularComponent,presynaptic intermediate filament cytoskeleton,NCBI:gene2go,
+GO:0034663,CellularComponent,endoplasmic reticulum chaperone complex,NCBI:gene2go,
+GO:0019898,CellularComponent,extrinsic component of membrane,NCBI:gene2go,
+GO:0000974,CellularComponent,Prp19 complex,NCBI:gene2go,
+GO:0005662,CellularComponent,DNA replication factor A complex,NCBI:gene2go,
+GO:0097648,CellularComponent,G protein-coupled receptor complex,NCBI:gene2go,
+GO:0098666,CellularComponent,G protein-coupled serotonin receptor complex,NCBI:gene2go,
+GO:0036117,CellularComponent,hyaluranon cable,NCBI:gene2go,
+GO:0042565,CellularComponent,RNA nuclear export complex,NCBI:gene2go,
+GO:0097057,CellularComponent,TRAF2-GSTP1 complex,NCBI:gene2go,
+GO:0002947,CellularComponent,tumor necrosis factor receptor superfamily complex,NCBI:gene2go,
+GO:0035189,CellularComponent,Rb-E2F complex,NCBI:gene2go,
+GO:0042599,CellularComponent,lamellar body,NCBI:gene2go,
+GO:0046696,CellularComponent,lipopolysaccharide receptor complex,NCBI:gene2go,
+GO:1990565,CellularComponent,HSP90-CDC37 chaperone complex,NCBI:gene2go,
+GO:7770015,CellularComponent,intermembrane lipid transporter complex,NCBI:gene2go,
+GO:0009330,CellularComponent,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",NCBI:gene2go,
+GO:1990351,CellularComponent,transporter complex,NCBI:gene2go,
+GO:0005861,CellularComponent,troponin complex,NCBI:gene2go,
+GO:0097489,CellularComponent,"multivesicular body, internal vesicle lumen",NCBI:gene2go,
+GO:0005850,CellularComponent,eukaryotic translation initiation factor 2 complex,NCBI:gene2go,
+GO:0035525,CellularComponent,NF-kappaB p50/p65 complex,NCBI:gene2go,
+GO:0001652,CellularComponent,granular component,NCBI:gene2go,
+GO:0016281,CellularComponent,eukaryotic translation initiation factor 4F complex,NCBI:gene2go,
+GO:0140644,CellularComponent,neutrophil extracellular trap,NCBI:gene2go,
+GO:0061851,CellularComponent,leading edge of lamellipodium,NCBI:gene2go,
+GO:0005663,CellularComponent,DNA replication factor C complex,NCBI:gene2go,
+GO:1990005,CellularComponent,granular vesicle,NCBI:gene2go,
+GO:0005577,CellularComponent,fibrinogen complex,NCBI:gene2go,
+GO:0000408,CellularComponent,EKC/KEOPS complex,NCBI:gene2go,
+GO:1990462,CellularComponent,omegasome,NCBI:gene2go,
+GO:0000813,CellularComponent,ESCRT I complex,NCBI:gene2go,
+GO:0038143,CellularComponent,ERBB3:ERBB2 complex,NCBI:gene2go,
+GO:0005669,CellularComponent,transcription factor TFIID complex,NCBI:gene2go,
+GO:1990498,CellularComponent,mitotic spindle microtubule,NCBI:gene2go,
+GO:0098577,CellularComponent,inactive sex chromosome,NCBI:gene2go,
+GO:1990572,CellularComponent,TERT-RMRP complex,NCBI:gene2go,
+GO:0031313,CellularComponent,extrinsic component of endosome membrane,NCBI:gene2go,
+GO:0000333,CellularComponent,telomerase catalytic core complex,NCBI:gene2go,
+GO:0043541,CellularComponent,UDP-N-acetylglucosamine transferase complex,NCBI:gene2go,
+GO:0071159,CellularComponent,NF-kappaB complex,NCBI:gene2go,
+GO:0033093,CellularComponent,Weibel-Palade body,NCBI:gene2go,
+GO:0000931,CellularComponent,gamma-tubulin ring complex,NCBI:gene2go,
+GO:0005879,CellularComponent,axonemal microtubule,NCBI:gene2go,
+GO:0070449,CellularComponent,elongin complex,NCBI:gene2go,
+GO:0120508,CellularComponent,GDP-mannose pyrophosphorylase complex,NCBI:gene2go,
+GO:0042825,CellularComponent,TAP complex,NCBI:gene2go,
+GO:0005736,CellularComponent,RNA polymerase I complex,NCBI:gene2go,
+GO:0042612,CellularComponent,MHC class I protein complex,NCBI:gene2go,
+GO:0045025,CellularComponent,mitochondrial degradosome,NCBI:gene2go,
+GO:0031209,CellularComponent,SCAR complex,NCBI:gene2go,
+GO:0036477,CellularComponent,somatodendritic compartment,NCBI:gene2go,
+GO:0005732,CellularComponent,sno(s)RNA-containing ribonucleoprotein complex,NCBI:gene2go,
+GO:0005833,CellularComponent,hemoglobin complex,NCBI:gene2go,
+GO:0042827,CellularComponent,platelet dense granule,NCBI:gene2go,
+GO:1990851,CellularComponent,Wnt-Frizzled-LRP5/6 complex,NCBI:gene2go,
+GO:0031838,CellularComponent,haptoglobin-hemoglobin complex,NCBI:gene2go,
+GO:0031523,CellularComponent,Myb complex,NCBI:gene2go,
+GO:0016600,CellularComponent,flotillin complex,NCBI:gene2go,
+GO:0071598,CellularComponent,neuronal ribonucleoprotein granule,NCBI:gene2go,
+GO:0044194,CellularComponent,cytolytic granule,NCBI:gene2go,
+GO:0005965,CellularComponent,protein farnesyltransferase complex,NCBI:gene2go,
+GO:0042584,CellularComponent,chromaffin granule membrane,NCBI:gene2go,
+GO:0000177,CellularComponent,cytoplasmic exosome (RNase complex),NCBI:gene2go,
+GO:0070743,CellularComponent,interleukin-23 complex,NCBI:gene2go,
+GO:0070288,CellularComponent,ferritin complex,NCBI:gene2go,
+GO:0008074,CellularComponent,"guanylate cyclase complex, soluble",NCBI:gene2go,
+GO:0097539,CellularComponent,ciliary transition fiber,NCBI:gene2go,
+GO:0045273,CellularComponent,respiratory chain complex II (succinate dehydrogenase),NCBI:gene2go,
+GO:0030863,CellularComponent,cortical cytoskeleton,NCBI:gene2go,
+GO:0016528,CellularComponent,sarcoplasm,NCBI:gene2go,
+GO:0030478,CellularComponent,actin cap,NCBI:gene2go,
+GO:0031092,CellularComponent,platelet alpha granule membrane,NCBI:gene2go,
+GO:0099512,CellularComponent,supramolecular fiber,NCBI:gene2go,
+GO:0098878,CellularComponent,neurotransmitter receptor complex,NCBI:gene2go,
+GO:0017146,CellularComponent,NMDA selective glutamate receptor complex,NCBI:gene2go,
+GO:0016461,CellularComponent,unconventional myosin complex,NCBI:gene2go,
+GO:0016514,CellularComponent,SWI/SNF complex,NCBI:gene2go,
+GO:0071564,CellularComponent,npBAF complex,NCBI:gene2go,
+GO:0090537,CellularComponent,CERF complex,NCBI:gene2go,
+GO:0035363,CellularComponent,histone locus body,NCBI:gene2go,
+GO:0070552,CellularComponent,BRISC complex,NCBI:gene2go,
+GO:0000839,CellularComponent,Hrd1p ubiquitin ligase ERAD-L complex,NCBI:gene2go,
+GO:0072487,CellularComponent,MSL complex,NCBI:gene2go,
+GO:0005921,CellularComponent,gap junction,NCBI:gene2go,
+GO:1990675,CellularComponent,Golgi medial cisterna membrane,NCBI:gene2go,
+GO:0090533,CellularComponent,cation-transporting ATPase complex,NCBI:gene2go,
+GO:0030137,CellularComponent,COPI-coated vesicle,NCBI:gene2go,
+GO:0017109,CellularComponent,glutamate-cysteine ligase complex,NCBI:gene2go,
+GO:0055087,CellularComponent,Ski complex,NCBI:gene2go,
+GO:1990971,CellularComponent,EMILIN complex,NCBI:gene2go,
+GO:0042568,CellularComponent,insulin-like growth factor binary complex,NCBI:gene2go,
+GO:0034668,CellularComponent,integrin alpha4-beta1 complex,NCBI:gene2go,
+GO:0032807,CellularComponent,DNA ligase IV complex,NCBI:gene2go,
+GO:0097179,CellularComponent,protease inhibitor complex,NCBI:gene2go,
+GO:0036396,CellularComponent,RNA N6-methyladenosine methyltransferase complex,NCBI:gene2go,
+GO:1902937,CellularComponent,inward rectifier potassium channel complex,NCBI:gene2go,
+GO:1905368,CellularComponent,peptidase complex,NCBI:gene2go,
+GO:0034708,CellularComponent,methyltransferase complex,NCBI:gene2go,
+GO:0008541,CellularComponent,"proteasome regulatory particle, lid subcomplex",NCBI:gene2go,
+GO:1905370,CellularComponent,serine-type endopeptidase complex,NCBI:gene2go,
+GO:0097512,CellularComponent,cardiac myofibril,NCBI:gene2go,
+GO:1990584,CellularComponent,cardiac Troponin complex,NCBI:gene2go,
+GO:0060987,CellularComponent,lipid tube,NCBI:gene2go,
+GO:0030117,CellularComponent,membrane coat,NCBI:gene2go,
+GO:0001405,CellularComponent,"PAM complex, Tim23 associated import motor",NCBI:gene2go,
+GO:0002945,CellularComponent,cyclin K-CDK13 complex,NCBI:gene2go,
+GO:0032133,CellularComponent,chromosome passenger complex,NCBI:gene2go,
+GO:0036501,CellularComponent,UFD1-NPL4 complex,NCBI:gene2go,
+GO:0031213,CellularComponent,RSF complex,NCBI:gene2go,
+GO:1990316,CellularComponent,Atg1/ULK1 kinase complex,NCBI:gene2go,
+GO:0120507,CellularComponent,tRNA-guanine transglycosylase complex,NCBI:gene2go,
+GO:0031084,CellularComponent,BLOC-2 complex,NCBI:gene2go,
+GO:0031379,CellularComponent,RNA-directed RNA polymerase complex,NCBI:gene2go,
+GO:0002944,CellularComponent,cyclin K-CDK12 complex,NCBI:gene2go,
+GO:1905286,CellularComponent,serine-type peptidase complex,NCBI:gene2go,
+GO:0031085,CellularComponent,BLOC-3 complex,NCBI:gene2go,
+GO:0038039,CellularComponent,G protein-coupled receptor heterodimeric complex,NCBI:gene2go,
+GO:0030905,CellularComponent,"retromer, tubulation complex",NCBI:gene2go,
+GO:0099160,CellularComponent,postsynaptic intermediate filament cytoskeleton,NCBI:gene2go,
+GO:0030055,CellularComponent,cell-substrate junction,NCBI:gene2go,
+GO:0005871,CellularComponent,kinesin complex,NCBI:gene2go,
+GO:0032281,CellularComponent,AMPA glutamate receptor complex,NCBI:gene2go,
+GO:0071011,CellularComponent,precatalytic spliceosome,NCBI:gene2go,
+GO:0034657,CellularComponent,GID complex,NCBI:gene2go,
+GO:0031380,CellularComponent,nuclear RNA-directed RNA polymerase complex,NCBI:gene2go,
+GO:0030314,CellularComponent,junctional membrane complex,NCBI:gene2go,
+GO:0014701,CellularComponent,junctional sarcoplasmic reticulum membrane,NCBI:gene2go,
+GO:0072557,CellularComponent,IPAF inflammasome complex,NCBI:gene2go,
+GO:1990221,CellularComponent,L-cysteine desulfurase complex,NCBI:gene2go,
+GO:0046581,CellularComponent,intercellular canaliculus,NCBI:gene2go,
+GO:0032476,CellularComponent,polyprenyl diphosphate synthase complex,NCBI:gene2go,
+GO:0099572,CellularComponent,postsynaptic specialization,NCBI:gene2go,
+GO:0072534,CellularComponent,perineuronal net,NCBI:gene2go,
+GO:0005869,CellularComponent,dynactin complex,NCBI:gene2go,
+GO:0071943,CellularComponent,Myc-Max complex,NCBI:gene2go,
+GO:0005948,CellularComponent,acetolactate synthase complex,NCBI:gene2go,
+GO:0043186,CellularComponent,P granule,NCBI:gene2go,
+GO:0008247,CellularComponent,1-alkyl-2-acetylglycerophosphocholine esterase complex,NCBI:gene2go,
+GO:0098894,CellularComponent,extrinsic component of presynaptic endocytic zone membrane,NCBI:gene2go,
+GO:0070532,CellularComponent,BRCA1-B complex,NCBI:gene2go,
+GO:1990913,CellularComponent,sperm head plasma membrane,NCBI:gene2go,
+GO:0005838,CellularComponent,proteasome regulatory particle,NCBI:gene2go,
+GO:0030686,CellularComponent,90S preribosome,NCBI:gene2go,
+GO:0098831,CellularComponent,presynaptic active zone cytoplasmic component,NCBI:gene2go,
+GO:0032389,CellularComponent,MutLalpha complex,NCBI:gene2go,
+GO:0030125,CellularComponent,clathrin vesicle coat,NCBI:gene2go,
+GO:0000145,CellularComponent,exocyst,NCBI:gene2go,
+GO:1990429,CellularComponent,peroxisomal importomer complex,NCBI:gene2go,
+GO:1990513,CellularComponent,CLOCK-BMAL transcription complex,NCBI:gene2go,
+GO:0070772,CellularComponent,PAS complex,NCBI:gene2go,
+GO:0017087,CellularComponent,mitochondrial processing peptidase complex,NCBI:gene2go,
+GO:0033269,CellularComponent,internode region of axon,NCBI:gene2go,
+GO:0034271,CellularComponent,"phosphatidylinositol 3-kinase complex, class III, type I",NCBI:gene2go,
+GO:0034272,CellularComponent,"phosphatidylinositol 3-kinase complex, class III, type II",NCBI:gene2go,
+GO:0033176,CellularComponent,proton-transporting V-type ATPase complex,NCBI:gene2go,
+GO:0061908,CellularComponent,phagophore,NCBI:gene2go,
+GO:0035032,CellularComponent,"phosphatidylinositol 3-kinase complex, class III",NCBI:gene2go,
+GO:0098850,CellularComponent,extrinsic component of synaptic vesicle membrane,NCBI:gene2go,
+GO:0032936,CellularComponent,SREBP-SCAP complex,NCBI:gene2go,
+GO:1902495,CellularComponent,transmembrane transporter complex,NCBI:gene2go,
+GO:0016459,CellularComponent,myosin complex,NCBI:gene2go,
+GO:1902554,CellularComponent,serine/threonine protein kinase complex,NCBI:gene2go,
+GO:0033181,CellularComponent,plasma membrane proton-transporting V-type ATPase complex,NCBI:gene2go,
+GO:1990508,CellularComponent,CKM complex,NCBI:gene2go,
+GO:0032300,CellularComponent,mismatch repair complex,NCBI:gene2go,
+GO:0005940,CellularComponent,septin ring,NCBI:gene2go,
+GO:0032153,CellularComponent,cell division site,NCBI:gene2go,
+GO:0090535,CellularComponent,WICH complex,NCBI:gene2go,
+GO:0034245,CellularComponent,mitochondrial DNA-directed RNA polymerase complex,NCBI:gene2go,
+GO:0002189,CellularComponent,ribose phosphate diphosphokinase complex,NCBI:gene2go,
+GO:0033018,CellularComponent,sarcoplasmic reticulum lumen,NCBI:gene2go,
+GO:0061773,CellularComponent,eNoSc complex,NCBI:gene2go,
+GO:0005858,CellularComponent,axonemal dynein complex,NCBI:gene2go,
+GO:0034455,CellularComponent,t-UTP complex,NCBI:gene2go,
+GO:0042564,CellularComponent,NLS-dependent protein nuclear import complex,NCBI:gene2go,
+GO:0042709,CellularComponent,succinate-CoA ligase complex,NCBI:gene2go,
+GO:0015934,CellularComponent,large ribosomal subunit,NCBI:gene2go,
+GO:0009361,CellularComponent,succinate-CoA ligase complex (ADP-forming),NCBI:gene2go,
+GO:0070044,CellularComponent,synaptobrevin 2-SNAP-25-syntaxin-1a complex,NCBI:gene2go,
+GO:0005686,CellularComponent,U2 snRNP,NCBI:gene2go,
+GO:0030286,CellularComponent,dynein complex,NCBI:gene2go,
+GO:0042720,CellularComponent,mitochondrial inner membrane peptidase complex,NCBI:gene2go,
+GO:0031515,CellularComponent,tRNA (m1A) methyltransferase complex,NCBI:gene2go,
+GO:0035631,CellularComponent,CD40 receptor complex,NCBI:gene2go,
+GO:0000137,CellularComponent,Golgi cis cisterna,NCBI:gene2go,
+GO:0097128,CellularComponent,cyclin D1-CDK4 complex,NCBI:gene2go,
+GO:1990923,CellularComponent,PET complex,NCBI:gene2go,
+GO:0044613,CellularComponent,nuclear pore central transport channel,NCBI:gene2go,
+GO:0002116,CellularComponent,semaphorin receptor complex,NCBI:gene2go,
+GO:0042583,CellularComponent,chromaffin granule,NCBI:gene2go,
+GO:0019774,CellularComponent,"proteasome core complex, beta-subunit complex",NCBI:gene2go,
+GO:0034682,CellularComponent,integrin alphav-beta1 complex,NCBI:gene2go,
+GO:0034515,CellularComponent,proteasome storage granule,NCBI:gene2go,
+GO:0034675,CellularComponent,integrin alpha6-beta1 complex,NCBI:gene2go,
+GO:0034676,CellularComponent,integrin alpha6-beta4 complex,NCBI:gene2go,
+GO:1902636,CellularComponent,kinociliary basal body,NCBI:gene2go,
+GO:1990682,CellularComponent,CSF1-CSF1R complex,NCBI:gene2go,
+GO:0044224,CellularComponent,juxtaparanode region of axon,NCBI:gene2go,
+GO:0032426,CellularComponent,stereocilium tip,NCBI:gene2go,
+GO:0016012,CellularComponent,sarcoglycan complex,NCBI:gene2go,
+GO:0106002,CellularComponent,mCRD-mediated mRNA stability complex,NCBI:gene2go,
+GO:0030896,CellularComponent,checkpoint clamp complex,NCBI:gene2go,
+GO:0033263,CellularComponent,CORVET complex,NCBI:gene2go,
+GO:0140445,CellularComponent,"chromosome, telomeric repeat region",NCBI:gene2go,
+GO:0031389,CellularComponent,Rad17 RFC-like complex,NCBI:gene2go,
+GO:0031672,CellularComponent,A band,NCBI:gene2go,
+GO:0097519,CellularComponent,DNA recombinase complex,NCBI:gene2go,
+GO:0090658,CellularComponent,cone matrix sheath,NCBI:gene2go,
+GO:0000323,CellularComponent,lytic vacuole,NCBI:gene2go,
+GO:0005971,CellularComponent,ribonucleoside-diphosphate reductase complex,NCBI:gene2go,
+GO:0031422,CellularComponent,RecQ family helicase-topoisomerase III complex,NCBI:gene2go,
+GO:0016507,CellularComponent,mitochondrial fatty acid beta-oxidation multienzyme complex,NCBI:gene2go,
+GO:0042622,CellularComponent,photoreceptor outer segment membrane,NCBI:gene2go,
+GO:0000112,CellularComponent,nucleotide-excision repair factor 3 complex,NCBI:gene2go,
+GO:0030891,CellularComponent,VCB complex,NCBI:gene2go,
+GO:0072380,CellularComponent,TRC complex,NCBI:gene2go,
+GO:0071561,CellularComponent,nucleus-vacuole junction,NCBI:gene2go,
+GO:0044614,CellularComponent,nuclear pore cytoplasmic filaments,NCBI:gene2go,
+GO:0036195,CellularComponent,muscle cell projection membrane,NCBI:gene2go,
+GO:0070032,CellularComponent,synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex,NCBI:gene2go,
+GO:0098858,CellularComponent,actin-based cell projection,NCBI:gene2go,
+GO:0002177,CellularComponent,manchette,NCBI:gene2go,
+GO:0071565,CellularComponent,nBAF complex,NCBI:gene2go,
+GO:0120202,CellularComponent,rod photoreceptor disc membrane,NCBI:gene2go,
+GO:0097433,CellularComponent,dense body,NCBI:gene2go,
+GO:0150034,CellularComponent,distal axon,NCBI:gene2go,
+GO:0097386,CellularComponent,glial cell projection,NCBI:gene2go,
+GO:0033268,CellularComponent,node of Ranvier,NCBI:gene2go,
+GO:0090651,CellularComponent,apical cytoplasm,NCBI:gene2go,
+GO:0120044,CellularComponent,stereocilium base,NCBI:gene2go,
+GO:0070852,CellularComponent,cell body fiber,NCBI:gene2go,
+GO:0043203,CellularComponent,axon hillock,NCBI:gene2go,
+GO:0043194,CellularComponent,axon initial segment,NCBI:gene2go,
+GO:0099091,CellularComponent,"postsynaptic specialization, intracellular component",NCBI:gene2go,
+GO:0120293,CellularComponent,dynein axonemal particle,NCBI:gene2go,
+GO:1902737,CellularComponent,dendritic filopodium,NCBI:gene2go,
+GO:0097575,CellularComponent,lateral cell cortex,NCBI:gene2go,
+GO:0031095,CellularComponent,platelet dense tubular network membrane,NCBI:gene2go,
+GO:0099544,CellularComponent,perisynaptic space,NCBI:gene2go,
+GO:0150002,CellularComponent,distal dendrite,NCBI:gene2go,
+GO:0032279,CellularComponent,asymmetric synapse,NCBI:gene2go,
+GO:0044294,CellularComponent,dendritic growth cone,NCBI:gene2go,
+GO:0032589,CellularComponent,neuron projection membrane,NCBI:gene2go,
+GO:0032591,CellularComponent,dendritic spine membrane,NCBI:gene2go,
+GO:0044327,CellularComponent,dendritic spine head,NCBI:gene2go,
+GO:0001536,CellularComponent,radial spoke stalk,NCBI:gene2go,
+GO:0071546,CellularComponent,pi-body,NCBI:gene2go,
+GO:0071547,CellularComponent,piP-body,NCBI:gene2go,
+GO:0042589,CellularComponent,zymogen granule membrane,NCBI:gene2go,
+GO:0070033,CellularComponent,synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex,NCBI:gene2go,
+GO:0160111,CellularComponent,axonemal A tubule inner sheath,NCBI:gene2go,
+GO:0070435,CellularComponent,Shc-EGFR complex,NCBI:gene2go,
+GO:0120043,CellularComponent,stereocilium shaft,NCBI:gene2go,
+GO:0097450,CellularComponent,astrocyte end-foot,NCBI:gene2go,
+GO:1990716,CellularComponent,axonemal central apparatus,NCBI:gene2go,
+GO:1990730,CellularComponent,VCP-NSFL1C complex,NCBI:gene2go,
+GO:0033391,CellularComponent,chromatoid body,NCBI:gene2go,
+GO:0160110,CellularComponent,axonemal microtubule doublet inner sheath,NCBI:gene2go,
+GO:0060342,CellularComponent,photoreceptor inner segment membrane,NCBI:gene2go,
+GO:0098984,CellularComponent,neuron to neuron synapse,NCBI:gene2go,
+GO:0044298,CellularComponent,cell body membrane,NCBI:gene2go,
+GO:0005895,CellularComponent,interleukin-5 receptor complex,NCBI:gene2go,
+GO:0098688,CellularComponent,parallel fiber to Purkinje cell synapse,NCBI:gene2go,
+GO:1990032,CellularComponent,parallel fiber,NCBI:gene2go,
+GO:0071162,CellularComponent,CMG complex,NCBI:gene2go,
+GO:1901588,CellularComponent,dendritic microtubule,NCBI:gene2go,
+GO:0000220,CellularComponent,"vacuolar proton-transporting V-type ATPase, V0 domain",NCBI:gene2go,
+GO:0042175,CellularComponent,nuclear outer membrane-endoplasmic reticulum membrane network,NCBI:gene2go,
+GO:0097457,CellularComponent,hippocampal mossy fiber,NCBI:gene2go,
+GO:0097441,CellularComponent,basal dendrite,NCBI:gene2go,
+GO:0044307,CellularComponent,dendritic branch,NCBI:gene2go,
+GO:0150001,CellularComponent,primary dendrite,NCBI:gene2go,
+GO:0002133,CellularComponent,polycystin complex,NCBI:gene2go,
+GO:0061689,CellularComponent,tricellular tight junction,NCBI:gene2go,
+GO:0033010,CellularComponent,paranodal junction,NCBI:gene2go,
+GO:0033270,CellularComponent,paranode region of axon,NCBI:gene2go,
+GO:0072687,CellularComponent,meiotic spindle,NCBI:gene2go,
+GO:0043219,CellularComponent,lateral loop,NCBI:gene2go,
+GO:0032010,CellularComponent,phagolysosome,NCBI:gene2go,
+GO:0005863,CellularComponent,striated muscle myosin thick filament,NCBI:gene2go,
+GO:0031021,CellularComponent,interphase microtubule organizing center,NCBI:gene2go,
+GO:1990425,CellularComponent,ryanodine receptor complex,NCBI:gene2go,
+GO:0014802,CellularComponent,terminal cisterna,NCBI:gene2go,
+GO:0035838,CellularComponent,growing cell tip,NCBI:gene2go,
+GO:0000803,CellularComponent,sex chromosome,NCBI:gene2go,
+GO:0044293,CellularComponent,dendriole,NCBI:gene2go,
+GO:0019908,CellularComponent,nuclear cyclin-dependent protein kinase holoenzyme complex,NCBI:gene2go,
+GO:0030868,CellularComponent,smooth endoplasmic reticulum membrane,NCBI:gene2go,
+GO:0036057,CellularComponent,slit diaphragm,NCBI:gene2go,
+GO:0001940,CellularComponent,male pronucleus,NCBI:gene2go,
+GO:0036053,CellularComponent,glomerular endothelium fenestra,NCBI:gene2go,
+GO:0120199,CellularComponent,cone photoreceptor outer segment,NCBI:gene2go,
+GO:0036128,CellularComponent,CatSper complex,NCBI:gene2go,
+GO:0044300,CellularComponent,cerebellar mossy fiber,NCBI:gene2go,
+GO:0044301,CellularComponent,climbing fiber,NCBI:gene2go,
+GO:1990111,CellularComponent,spermatoproteasome complex,NCBI:gene2go,
+GO:0098800,CellularComponent,inner mitochondrial membrane protein complex,NCBI:gene2go,
+GO:0005658,CellularComponent,alpha DNA polymerase:primase complex,NCBI:gene2go,
+GO:0016469,CellularComponent,proton-transporting two-sector ATPase complex,NCBI:gene2go,
+GO:0097381,CellularComponent,photoreceptor disc membrane,NCBI:gene2go,
+GO:0001739,CellularComponent,sex chromatin,NCBI:gene2go,
+GO:0099126,CellularComponent,transforming growth factor beta complex,NCBI:gene2go,
+GO:0097486,CellularComponent,multivesicular body lumen,NCBI:gene2go,
+GO:1904856,CellularComponent,cytolytic granule lumen,NCBI:gene2go,
+GO:0030894,CellularComponent,replisome,NCBI:gene2go,
+GO:0005889,CellularComponent,potassium:proton exchanging ATPase complex,NCBI:gene2go,
+GO:0035580,CellularComponent,specific granule lumen,NCBI:gene2go,
+GO:0005862,CellularComponent,muscle thin filament tropomyosin,NCBI:gene2go,
+GO:0071682,CellularComponent,endocytic vesicle lumen,NCBI:gene2go,
+GO:0031089,CellularComponent,platelet dense granule lumen,NCBI:gene2go,
+GO:0005873,CellularComponent,plus-end kinesin complex,NCBI:gene2go,
+GO:1990341,CellularComponent,thrombospondin complex,NCBI:gene2go,
+GO:0160056,CellularComponent,macropinosome membrane,NCBI:gene2go,
+GO:0000783,CellularComponent,nuclear telomere cap complex,NCBI:gene2go,
+GO:0060203,CellularComponent,clathrin-sculpted glutamate transport vesicle membrane,NCBI:gene2go,
+GO:0070554,CellularComponent,synaptobrevin 2-SNAP-25-syntaxin-3-complexin complex,NCBI:gene2go,
+GO:0098983,CellularComponent,"symmetric, GABA-ergic, inhibitory synapse",NCBI:gene2go,
+GO:0061202,CellularComponent,clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane,NCBI:gene2go,
+GO:0070083,CellularComponent,clathrin-sculpted monoamine transport vesicle membrane,NCBI:gene2go,
+GO:0016013,CellularComponent,syntrophin complex,NCBI:gene2go,
+GO:0140150,CellularComponent,gel phase of interstitial matrix,NCBI:gene2go,
+GO:0060201,CellularComponent,clathrin-sculpted acetylcholine transport vesicle membrane,NCBI:gene2go,
+GO:0071953,CellularComponent,elastic fiber,NCBI:gene2go,
+GO:0019867,CellularComponent,outer membrane,NCBI:gene2go,
+GO:0043033,CellularComponent,isoamylase complex,NCBI:gene2go,
+GO:0034752,CellularComponent,cytosolic aryl hydrocarbon receptor complex,NCBI:gene2go,
+GO:0071062,CellularComponent,alphav-beta3 integrin-vitronectin complex,NCBI:gene2go,
+GO:0030119,CellularComponent,AP-type membrane coat adaptor complex,NCBI:gene2go,
+GO:0140148,CellularComponent,gel phase of basement membrane,NCBI:gene2go,
+GO:0005589,CellularComponent,collagen type VI trimer,NCBI:gene2go,
+GO:0098575,CellularComponent,lumenal side of lysosomal membrane,NCBI:gene2go,
+GO:0036021,CellularComponent,endolysosome lumen,NCBI:gene2go,
+GO:0070931,CellularComponent,Golgi-associated vesicle lumen,NCBI:gene2go,
+GO:0016513,CellularComponent,core-binding factor complex,NCBI:gene2go,
+GO:0000795,CellularComponent,synaptonemal complex,NCBI:gene2go,
+GO:0001673,CellularComponent,male germ cell nucleus,NCBI:gene2go,
+GO:0031232,CellularComponent,extrinsic component of external side of plasma membrane,NCBI:gene2go,
+GO:0098687,CellularComponent,chromosomal region,NCBI:gene2go,
+GO:1990332,CellularComponent,Ire1 complex,NCBI:gene2go,
+GO:0140275,CellularComponent,MIB complex,NCBI:gene2go,
+GO:0008352,CellularComponent,katanin complex,NCBI:gene2go,
+GO:0044309,CellularComponent,neuron spine,NCBI:gene2go,
+GO:0098552,CellularComponent,side of membrane,NCBI:gene2go,
+GO:1902560,CellularComponent,GMP reductase complex,NCBI:gene2go,
+GO:0099513,CellularComponent,polymeric cytoskeletal fiber,NCBI:gene2go,
+GO:0031314,CellularComponent,extrinsic component of mitochondrial inner membrane,NCBI:gene2go,
+GO:0061671,CellularComponent,Cbp3p-Cbp6 complex,NCBI:gene2go,
+GO:0002199,CellularComponent,zona pellucida receptor complex,NCBI:gene2go,
+GO:1905379,CellularComponent,beta-N-acetylhexosaminidase complex,NCBI:gene2go,
+GO:0098837,CellularComponent,postsynaptic recycling endosome,NCBI:gene2go,
+GO:0098842,CellularComponent,postsynaptic early endosome,NCBI:gene2go,
+GO:0060053,CellularComponent,neurofilament cytoskeleton,NCBI:gene2go,
+GO:0045251,CellularComponent,electron transfer flavoprotein complex,NCBI:gene2go,
+GO:0043196,CellularComponent,varicosity,NCBI:gene2go,
+GO:0072563,CellularComponent,endothelial microparticle,NCBI:gene2go,
+GO:0098846,CellularComponent,podocyte foot,NCBI:gene2go,
+GO:0044207,CellularComponent,translation initiation ternary complex,NCBI:gene2go,
+GO:0097451,CellularComponent,glial limiting end-foot,NCBI:gene2go,
+GO:1902710,CellularComponent,GABA receptor complex,NCBI:gene2go,
+GO:0038037,CellularComponent,G protein-coupled receptor dimeric complex,NCBI:gene2go,
+GO:0045120,CellularComponent,pronucleus,NCBI:gene2go,
+GO:1905354,CellularComponent,exoribonuclease complex,NCBI:gene2go,
+GO:0099164,CellularComponent,postsynaptic specialization membrane of symmetric synapse,NCBI:gene2go,
+GO:0098895,CellularComponent,postsynaptic endosome membrane,NCBI:gene2go,
+GO:0005712,CellularComponent,chiasma,NCBI:gene2go,
+GO:0005715,CellularComponent,late recombination nodule,NCBI:gene2go,
+GO:0005713,CellularComponent,recombination nodule,NCBI:gene2go,
+GO:0099023,CellularComponent,vesicle tethering complex,NCBI:gene2go,
+GO:0120003,CellularComponent,hinge region between urothelial plaques of apical plasma membrane,NCBI:gene2go,
+GO:1990026,CellularComponent,hippocampal mossy fiber expansion,NCBI:gene2go,
+GO:0097453,CellularComponent,mesaxon,NCBI:gene2go,
+GO:0070013,CellularComponent,intracellular organelle lumen,NCBI:gene2go,
+GO:0120025,CellularComponent,plasma membrane bounded cell projection,NCBI:gene2go,
+GO:1990075,CellularComponent,periciliary membrane compartment,NCBI:gene2go,
+GO:0098690,CellularComponent,glycinergic synapse,NCBI:gene2go,
+GO:0097470,CellularComponent,ribbon synapse,NCBI:gene2go,
+GO:0043527,CellularComponent,tRNA methyltransferase complex,NCBI:gene2go,
+GO:0060171,CellularComponent,stereocilium membrane,NCBI:gene2go,
+GO:0071133,CellularComponent,alpha9-beta1 integrin-ADAM8 complex,NCBI:gene2go,
+GO:0030118,CellularComponent,clathrin coat,NCBI:gene2go,
+GO:0043513,CellularComponent,inhibin B complex,NCBI:gene2go,
+GO:0034666,CellularComponent,integrin alpha2-beta1 complex,NCBI:gene2go,
+GO:0042585,CellularComponent,germinal vesicle,NCBI:gene2go,
+GO:1990728,CellularComponent,mitotic spindle assembly checkpoint MAD1-MAD2 complex,NCBI:gene2go,
+GO:0101004,CellularComponent,cytolytic granule membrane,NCBI:gene2go,
+GO:0060205,CellularComponent,cytoplasmic vesicle lumen,NCBI:gene2go,
+GO:0043657,CellularComponent,host cell,NCBI:gene2go,
+GO:0033179,CellularComponent,"proton-transporting V-type ATPase, V0 domain",NCBI:gene2go,
+GO:0099012,CellularComponent,neuronal dense core vesicle membrane,NCBI:gene2go,
+GO:0070310,CellularComponent,ATR-ATRIP complex,NCBI:gene2go,
+GO:0120249,CellularComponent,lateral wall of outer hair cell,NCBI:gene2go,
+GO:0033177,CellularComponent,"proton-transporting two-sector ATPase complex, proton-transporting domain",NCBI:gene2go,
+GO:0033180,CellularComponent,"proton-transporting V-type ATPase, V1 domain",NCBI:gene2go,
+GO:0033178,CellularComponent,"proton-transporting two-sector ATPase complex, catalytic domain",NCBI:gene2go,
+GO:0098684,CellularComponent,photoreceptor ribbon synapse,NCBI:gene2go,
+GO:0099523,CellularComponent,presynaptic cytosol,NCBI:gene2go,
+GO:1990030,CellularComponent,pericellular basket,NCBI:gene2go,
+GO:0097543,CellularComponent,ciliary inversin compartment,NCBI:gene2go,
+GO:0001741,CellularComponent,XY body,NCBI:gene2go,
+GO:0030485,CellularComponent,smooth muscle contractile fiber,NCBI:gene2go,
+GO:0120220,CellularComponent,basal body patch,NCBI:gene2go,
+GO:0070701,CellularComponent,mucus layer,NCBI:gene2go,
+GO:0030131,CellularComponent,clathrin adaptor complex,NCBI:gene2go,
+GO:0001520,CellularComponent,outer dense fiber,NCBI:gene2go,
+GO:0065010,CellularComponent,extracellular membrane-bounded organelle,NCBI:gene2go,
+GO:0005916,CellularComponent,fascia adherens,NCBI:gene2go,
+GO:0034750,CellularComponent,Scrib-APC-beta-catenin complex,NCBI:gene2go,
+GO:0033165,CellularComponent,interphotoreceptor matrix,NCBI:gene2go,
+GO:0098845,CellularComponent,postsynaptic endosome,NCBI:gene2go,
+GO:0048237,CellularComponent,rough endoplasmic reticulum lumen,NCBI:gene2go,
+GO:0061830,CellularComponent,concave side of sperm head,NCBI:gene2go,
+GO:0097728,CellularComponent,9+0 motile cilium,NCBI:gene2go,
+GO:0000805,CellularComponent,X chromosome,NCBI:gene2go,
+GO:0000806,CellularComponent,Y chromosome,NCBI:gene2go,
+GO:0016533,CellularComponent,protein kinase 5 complex,NCBI:gene2go,
+GO:0097123,CellularComponent,cyclin A1-CDK2 complex,NCBI:gene2go,
+GO:0097135,CellularComponent,cyclin E2-CDK2 complex,NCBI:gene2go,
+GO:0097134,CellularComponent,cyclin E1-CDK2 complex,NCBI:gene2go,
+GO:0097129,CellularComponent,cyclin D2-CDK4 complex,NCBI:gene2go,
+GO:0090732,CellularComponent,cofilin-actin rod,NCBI:gene2go,
+GO:0000811,CellularComponent,GINS complex,NCBI:gene2go,
+GO:0150048,CellularComponent,cerebellar granule cell to Purkinje cell synapse,NCBI:gene2go,
+GO:0097132,CellularComponent,cyclin D2-CDK6 complex,NCBI:gene2go,
+GO:0002095,CellularComponent,caveolar macromolecular signaling complex,NCBI:gene2go,
+GO:0014804,CellularComponent,terminal cisterna lumen,NCBI:gene2go,
+GO:0000428,CellularComponent,DNA-directed RNA polymerase complex,NCBI:gene2go,
+GO:0005583,CellularComponent,fibrillar collagen trimer,NCBI:gene2go,
+GO:0031254,CellularComponent,cell trailing edge,NCBI:gene2go,
+GO:0005775,CellularComponent,vacuolar lumen,NCBI:gene2go,
+GO:0005581,CellularComponent,collagen trimer,NCBI:gene2go,
+GO:0031010,CellularComponent,ISWI-type complex,NCBI:gene2go,
+GO:1990062,CellularComponent,RPAP3/R2TP/prefoldin-like complex,NCBI:gene2go,
+GO:0032156,CellularComponent,septin cytoskeleton,NCBI:gene2go,
+GO:0030130,CellularComponent,clathrin coat of trans-Golgi network vesicle,NCBI:gene2go,
+GO:0045244,CellularComponent,succinate-CoA ligase complex (GDP-forming),NCBI:gene2go,
+GO:0071541,CellularComponent,"eukaryotic translation initiation factor 3 complex, eIF3m",NCBI:gene2go,
+GO:0034423,CellularComponent,autophagosome lumen,NCBI:gene2go,
+GO:0098830,CellularComponent,presynaptic endosome,NCBI:gene2go,
+GO:0106068,CellularComponent,SUMO ligase complex,NCBI:gene2go,
+GO:0090724,CellularComponent,central region of growth cone,NCBI:gene2go,
+GO:0098890,CellularComponent,extrinsic component of postsynaptic membrane,NCBI:gene2go,
+GO:0099573,CellularComponent,glutamatergic postsynaptic density,NCBI:gene2go,
+GO:0031332,CellularComponent,RNAi effector complex,NCBI:gene2go,
+GO:0000153,CellularComponent,cytoplasmic ubiquitin ligase complex,NCBI:gene2go,
+GO:0031967,CellularComponent,organelle envelope,NCBI:gene2go,
+GO:0005849,CellularComponent,mRNA cleavage factor complex,NCBI:gene2go,
+GO:0061846,CellularComponent,dendritic spine cytoplasm,NCBI:gene2go,
+GO:0061845,CellularComponent,neuron projection branch point,NCBI:gene2go,
+GO:0005927,CellularComponent,muscle tendon junction,NCBI:gene2go,
+GO:0002096,CellularComponent,polkadots,NCBI:gene2go,
+GO:0008537,CellularComponent,proteasome activator complex,NCBI:gene2go,
+GO:0099243,CellularComponent,extrinsic component of synaptic membrane,NCBI:gene2go,
+GO:0030532,CellularComponent,small nuclear ribonucleoprotein complex,NCBI:gene2go,
+GO:0032584,CellularComponent,growth cone membrane,NCBI:gene2go,
+GO:0032421,CellularComponent,stereocilium bundle,NCBI:gene2go,
+GO:0098843,CellularComponent,postsynaptic endocytic zone,NCBI:gene2go,
+GO:0097504,CellularComponent,Gemini of Cajal bodies,NCBI:gene2go,
+GO:0090571,CellularComponent,RNA polymerase II transcription repressor complex,NCBI:gene2go,
+GO:0044302,CellularComponent,dentate gyrus mossy fiber,NCBI:gene2go,
+GO:0120212,CellularComponent,sperm head-tail coupling apparatus,NCBI:gene2go,
+GO:0031984,CellularComponent,organelle subcompartment,NCBI:gene2go,
+GO:0031680,CellularComponent,G-protein beta/gamma-subunit complex,NCBI:gene2go,
+GO:0060198,CellularComponent,clathrin-sculpted vesicle,NCBI:gene2go,
+GO:0032127,CellularComponent,dense core granule membrane,NCBI:gene2go,
+GO:0035748,CellularComponent,myelin sheath abaxonal region,NCBI:gene2go,
+GO:0097598,CellularComponent,sperm cytoplasmic droplet,NCBI:gene2go,
+GO:0012510,CellularComponent,trans-Golgi network transport vesicle membrane,NCBI:gene2go,
+GO:0097444,CellularComponent,spine apparatus,NCBI:gene2go,
+GO:0032280,CellularComponent,symmetric synapse,NCBI:gene2go,
+GO:0042629,CellularComponent,mast cell granule,NCBI:gene2go,
+GO:0098595,CellularComponent,perivitelline space,NCBI:gene2go,
+GO:1990229,CellularComponent,iron-sulfur cluster assembly complex,NCBI:gene2go,
+GO:0099189,CellularComponent,postsynaptic spectrin-associated cytoskeleton,NCBI:gene2go,
+GO:0044225,CellularComponent,apical pole of neuron,NCBI:gene2go,
+GO:1990769,CellularComponent,proximal neuron projection,NCBI:gene2go,
+GO:0098833,CellularComponent,presynaptic endocytic zone,NCBI:gene2go,
+GO:0098944,CellularComponent,postsynaptic recycling endosome membrane,NCBI:gene2go,
+GO:0019815,CellularComponent,B cell receptor complex,NCBI:gene2go,
+GO:0098888,CellularComponent,extrinsic component of presynaptic membrane,NCBI:gene2go,
+GO:0044391,CellularComponent,ribosomal subunit,NCBI:gene2go,
+GO:0098681,CellularComponent,synaptic ribbon,NCBI:gene2go,
+GO:0060091,CellularComponent,kinocilium,NCBI:gene2go,
+GO:0150053,CellularComponent,cerebellar climbing fiber to Purkinje cell synapse,NCBI:gene2go,
+GO:0000835,CellularComponent,ER ubiquitin ligase complex,NCBI:gene2go,
+GO:0005586,CellularComponent,collagen type III trimer,NCBI:gene2go,
+GO:0002142,CellularComponent,stereocilia ankle link complex,NCBI:gene2go,
+GO:1990696,CellularComponent,USH2 complex,NCBI:gene2go,
